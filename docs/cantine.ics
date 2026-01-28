@@ -5,61 +5,64 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:CFGPQlu7BMHowkiWqZiUW
+UID:dEHkYLIYSzYWmr-MZkHD5
 SUMMARY:🍽️ Lunch: Crepinettes with white sauce\, peas and boiled potatoes
-DTSTAMP:20260128T214627Z
-DTSTART:20260129T110000Z
-DESCRIPTION:\n        Main: Crepinettes with white sauce\, peas and boiled 
-	potatoes\n        Deli: butternut squash satay with jasmine rice\n        
-	Vegetarian: butternut squash satay with jasmine rice\n        
+DTSTAMP:20260128T221057Z
+DTSTART;VALUE=DATE:20260129
+DESCRIPTION:\n        Main 🍗: Crepinettes with white sauce\, peas and boile
+	d potatoes\n\n        Deli 🍜: Tuna salad with roasted capers and pickled r
+	ed onions\n\n        Vegetarian 🥬: butternut squash satay with jasmine ric
+	e\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 
+	🤠\n        
 LOCATION:Cantine
-DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:9zULK2dNZqP6pMNt0ehtq
+UID:LCG4cC2FZAFh6u29nnpQH
 SUMMARY:🍽️ Lunch: Caribbean beef sauce with brown whole grain rice.
-DTSTAMP:20260128T214627Z
-DTSTART:20260128T110000Z
-DESCRIPTION:\n        Main: Caribbean beef sauce with brown whole grain ric
-	e.\n        Deli: Red Lentil Pasta Screws with Vegan Lemon Cream and Roast
-	ed Asparagus\n        Vegetarian: Red Lentil Pasta Screws with Vegan Lemon
-	 Cream and Roasted Asparagus\n        
+DTSTAMP:20260128T221057Z
+DTSTART;VALUE=DATE:20260128
+DESCRIPTION:\n        Main 🍗: Caribbean beef sauce with brown whole grain r
+	ice.\n\n        Deli 🍜: BBQ chicken with coleslaw\n\n        Vegetarian 🥬:
+	 Red Lentil Pasta Screws with Vegan Lemon Cream and Roasted Asparagus\n\n 
+	       Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n   
+	     
 LOCATION:Cantine
-DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:krwjeDXGk4ZrpEzEA2TwK
+UID:-psrMhHPl9g6rkjsj247v
 SUMMARY:🍽️ Lunch: Creamy pasta with bacon
-DTSTAMP:20260128T214627Z
-DTSTART:20260126T110000Z
-DESCRIPTION:\n        Main: Creamy pasta with bacon\n        Deli: Braised 
-	Pakchoy with sweet and sour sauce and black rice\n        Vegetarian: Brai
-	sed Pakchoy with sweet and sour sauce and black rice\n        
+DTSTAMP:20260128T221057Z
+DTSTART;VALUE=DATE:20260126
+DESCRIPTION:\n        Main 🍗: Creamy pasta with bacon\n\n        Deli 🍜: po
+	ke bowl with turkey and pineapple\, rice with lentils\, corn\, peas and go
+	ma dressing\n\n        Vegetarian 🥬: Braised Pakchoy with sweet and sour s
+	auce and black rice\n\n        Buon appetito! 😋\n\n\n\n        Brought to 
+	you by hungry DML 🤠\n        
 LOCATION:Cantine
-DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:dp-HXuNDy3n5aPhNikACN
+UID:JO85LOCaJk2HHlQ0TGICq
 SUMMARY:🍽️ Lunch: Chicken saltimboca with fried potatoes and sauce
-DTSTAMP:20260128T214627Z
-DTSTART:20260127T110000Z
-DESCRIPTION:\n        Main: Chicken saltimboca with fried potatoes and sauc
-	e\n        Deli: Mushroom stroganoff with green mashed potatoes\n        V
-	egetarian: Mushroom stroganoff with green mashed potatoes\n        
+DTSTAMP:20260128T221057Z
+DTSTART;VALUE=DATE:20260127
+DESCRIPTION:\n        Main 🍗: Chicken saltimboca with fried potatoes and sa
+	uce\n\n        Deli 🍜: 2 types of pizza. Serano\, spinach and parmesan & b
+	aked eggplant with spinach and mozzarella\n\n        Vegetarian 🥬: Mushroo
+	m stroganoff with green mashed potatoes\n\n        Buon appetito! 😋\n\n\n\
+	n        Brought to you by hungry DML 🤠\n        
 LOCATION:Cantine
-DURATION:PT1H
 END:VEVENT
 BEGIN:VEVENT
-UID:RK9JK3ICXYq8UANtTEHUB
+UID:Y0-HJVvbm5L_r6x33-E_N
 SUMMARY:🍽️ Lunch: Steak Open Faced Sandwiches with garlic dressing and arugu
 	la
-DTSTAMP:20260128T214627Z
-DTSTART:20260130T110000Z
-DESCRIPTION:\n        Main: Steak Open Faced Sandwiches with garlic dressin
-	g and arugula\n        Deli: falafel with hummus and tomato-cucumber cream
-	\n        Vegetarian: falafel with hummus and tomato-cucumber cream\n     
-	   
+DTSTAMP:20260128T221057Z
+DTSTART;VALUE=DATE:20260130
+DESCRIPTION:\n        Main 🍗: Steak Open Faced Sandwiches with garlic dress
+	ing and arugula\n\n        Deli 🍜: Crispy Potato with smoked cheese cream 
+	and bresaola\n\n        Vegetarian 🥬: falafel with hummus and tomato-cucum
+	ber cream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hun
+	gry DML 🤠\n        
 LOCATION:Cantine
-DURATION:PT1H
 END:VEVENT
 END:VCALENDAR

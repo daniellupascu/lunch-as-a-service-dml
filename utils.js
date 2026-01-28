@@ -54,14 +54,22 @@ export async function generateCalendar() {
     const events = Object.entries(groupedMealsByDay).map(([date, meals]) => {
         const dateObject = dayjs(date, "DD.MM.YYYY");
 
-        const mainMealName = meals.find(meal => meal.station_name.station_name === "World of Flavour").recipe_id.menu_info_1;
-        const deliMealName = meals.find(meal => meal.station_name.station_name !== "The Deli").recipe_id.menu_info_1;
-        const vegetarianMealName = meals.find(meal => meal.station_name.station_name !== "Go green").recipe_id.menu_info_1;
+        const mainMealName = meals.find(meal => meal.station_name.station_name === "World of Flavour")?.recipe_id.menu_info_1;
+        const deliMealName = meals.find(meal => meal.station_name.station_name === "The Deli ")?.recipe_id.menu_info_1;
+        const vegetarianMealName = meals.find(meal => meal.station_name.station_name === "Go Green")?.recipe_id.menu_info_1;
 
         const description = `
-        Main: ${mainMealName}
-        Deli: ${deliMealName}
-        Vegetarian: ${vegetarianMealName}
+        Main 🍗: ${mainMealName}
+
+        Deli 🍜: ${deliMealName}
+
+        Vegetarian 🥬: ${vegetarianMealName}
+
+        Buon appetito! 😋
+
+
+
+        Brought to you by hungry DML 🤠
         `;
 
         return {
@@ -72,9 +80,7 @@ export async function generateCalendar() {
                 dateObject.year(),
                 dateObject.month() + 1,
                 dateObject.date(),
-                12, 0
             ],
-            duration: { hours: 1 }
         }
     })
 
