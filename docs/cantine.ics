@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:adamgibbons/ics
+METHOD:PUBLISH
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:CFGPQlu7BMHowkiWqZiUW
+SUMMARY:🍽️ Lunch: Crepinettes with white sauce\, peas and boiled potatoes
+DTSTAMP:20260128T214627Z
+DTSTART:20260129T110000Z
+DESCRIPTION:\n        Main: Crepinettes with white sauce\, peas and boiled 
+	potatoes\n        Deli: butternut squash satay with jasmine rice\n        
+	Vegetarian: butternut squash satay with jasmine rice\n        
+LOCATION:Cantine
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:9zULK2dNZqP6pMNt0ehtq
+SUMMARY:🍽️ Lunch: Caribbean beef sauce with brown whole grain rice.
+DTSTAMP:20260128T214627Z
+DTSTART:20260128T110000Z
+DESCRIPTION:\n        Main: Caribbean beef sauce with brown whole grain ric
+	e.\n        Deli: Red Lentil Pasta Screws with Vegan Lemon Cream and Roast
+	ed Asparagus\n        Vegetarian: Red Lentil Pasta Screws with Vegan Lemon
+	 Cream and Roasted Asparagus\n        
+LOCATION:Cantine
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:krwjeDXGk4ZrpEzEA2TwK
+SUMMARY:🍽️ Lunch: Creamy pasta with bacon
+DTSTAMP:20260128T214627Z
+DTSTART:20260126T110000Z
+DESCRIPTION:\n        Main: Creamy pasta with bacon\n        Deli: Braised 
+	Pakchoy with sweet and sour sauce and black rice\n        Vegetarian: Brai
+	sed Pakchoy with sweet and sour sauce and black rice\n        
+LOCATION:Cantine
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:dp-HXuNDy3n5aPhNikACN
+SUMMARY:🍽️ Lunch: Chicken saltimboca with fried potatoes and sauce
+DTSTAMP:20260128T214627Z
+DTSTART:20260127T110000Z
+DESCRIPTION:\n        Main: Chicken saltimboca with fried potatoes and sauc
+	e\n        Deli: Mushroom stroganoff with green mashed potatoes\n        V
+	egetarian: Mushroom stroganoff with green mashed potatoes\n        
+LOCATION:Cantine
+DURATION:PT1H
+END:VEVENT
+BEGIN:VEVENT
+UID:RK9JK3ICXYq8UANtTEHUB
+SUMMARY:🍽️ Lunch: Steak Open Faced Sandwiches with garlic dressing and arugu
+	la
+DTSTAMP:20260128T214627Z
+DTSTART:20260130T110000Z
+DESCRIPTION:\n        Main: Steak Open Faced Sandwiches with garlic dressin
+	g and arugula\n        Deli: falafel with hummus and tomato-cucumber cream
+	\n        Vegetarian: falafel with hummus and tomato-cucumber cream\n     
+	   
+LOCATION:Cantine
+DURATION:PT1H
+END:VEVENT
+END:VCALENDAR
