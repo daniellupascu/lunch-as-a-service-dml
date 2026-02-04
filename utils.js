@@ -59,11 +59,11 @@ export async function generateCalendar() {
         const vegetarianMealName = meals.find(meal => meal.station_name.station_name === "Go Green")?.recipe_id.menu_info_1;
 
         const description = `
-        Main 🍗: ${mainMealName}
+        🍗 Main: ${mainMealName}
 
-        Deli 🍜: ${deliMealName}
+        🍜 Deli: ${deliMealName}
 
-        Vegetarian 🥬: ${vegetarianMealName}
+        🥬 Vegetarian: ${vegetarianMealName}
 
         Buon appetito! 😋
 
@@ -75,7 +75,7 @@ export async function generateCalendar() {
         return {
             title: `🍽️ Lunch: ${mainMealName}`,
             description,
-            location: "Cantine",
+            location: "Canteen",
             start: [
                 dateObject.year(),
                 dateObject.month() + 1,
@@ -88,8 +88,8 @@ export async function generateCalendar() {
     const { error, value } = createEvents(events);
     if (error) throw error;
 
-    fs.mkdirSync("docs", { recursive: true });
-    fs.writeFileSync("docs/cantine.ics", value);
+    fs.mkdirSync("public", { recursive: true });
+    fs.writeFileSync("public/menu.ics", value);
 }
 
 generateCalendar();
