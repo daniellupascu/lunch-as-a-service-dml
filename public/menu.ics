@@ -5,63 +5,65 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:tfqYpyI2v76ExyIn84NZT
-SUMMARY:🍽️ Lunch: Chicken thighs with lentils and Ajvar dressing
-DTSTAMP:20260204T203048Z
-DTSTART;VALUE=DATE:20260205
-DESCRIPTION:\n        🍗 Main: Chicken thighs with lentils and Ajvar dressin
-	g\n\n        🍜 Deli: Fish fillet with remoulade and rye bread\n\n        🥬
-	 Vegetarian: Curry masala with rice and tofu\n\n        Buon appetito! 😋\n
-	\n\n\n        Brought to you by hungry DML 🤠\n        
-LOCATION:Cantine
-END:VEVENT
-BEGIN:VEVENT
-UID:XX8ydk8KDW5HzelCjulfn
-SUMMARY:🍽️ Lunch: Swedish sausage dish
-DTSTAMP:20260204T203048Z
-DTSTART;VALUE=DATE:20260206
-DESCRIPTION:\n        🍗 Main: Swedish sausage dish\n\n        🍜 Deli: Poke 
-	bowl with coleslaw\, edemam\, avocado\, soy glaze and chicken\n\n        🥬
-	 Vegetarian: Beetroot Tartar with tarragon mayo\, chips and chickpeas\n\n 
-	       Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n   
-	     
-LOCATION:Cantine
-END:VEVENT
-BEGIN:VEVENT
-UID:hmeQOOmnHAT9lvoBVLQlf
-SUMMARY:🍽️ Lunch: 5 Spice beef with bell pepper\, onion\, carrot and spring 
-	onion served with noodles
-DTSTAMP:20260204T203048Z
-DTSTART;VALUE=DATE:20260203
-DESCRIPTION:\n        🍗 Main: 5 Spice beef with bell pepper\, onion\, carro
-	t and spring onion served with noodles\n\n        🍜 Deli: Pulled pork\, bu
-	rger\, coleslaw and pickled red onions\n\n        🥬 Vegetarian: Grilled Eg
-	gplant with tahini dressing\, pomegranate and potatoes\n\n        Buon app
-	etito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
-LOCATION:Cantine
-END:VEVENT
-BEGIN:VEVENT
-UID:zRZ6gfuhhYNDRPE8CDPx0
-SUMMARY:🍽️ Lunch: Fish cake with remoulade and potatoes
-DTSTAMP:20260204T203048Z
-DTSTART;VALUE=DATE:20260204
-DESCRIPTION:\n        🍗 Main: Fish cake with remoulade and potatoes\n\n    
-	    🍜 Deli: Burning love with chives and beetroot\n\n        🥬 Vegetarian:
-	 Mushroom ragout with fried polenta\n\n        Buon appetito! 😋\n\n\n\n   
-	     Brought to you by hungry DML 🤠\n        
-LOCATION:Cantine
-END:VEVENT
-BEGIN:VEVENT
-UID:q3IvtX_ThietwmmXXc3qz
+UID:v9c9zH6tf6MVO1PjUsyyU
 SUMMARY:🍽️ Lunch: Butter chicken with holy rice topped with almond flakes an
 	d coriander
-DTSTAMP:20260204T203048Z
+DTSTAMP:20260205T203634Z
 DTSTART;VALUE=DATE:20260202
 DESCRIPTION:\n        🍗 Main: Butter chicken with holy rice topped with alm
 	ond flakes and coriander\n\n        🍜 Deli: Croque Madam with egg and chip
 	s\n\n        🥬 Vegetarian: Vegetarian\, Lasagna with lentils\, tomato\, pa
 	rmesan and gremolata\n\n        Buon appetito! 😋\n\n\n\n        Brought to
 	 you by hungry DML 🤠\n        
-LOCATION:Cantine
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:d9KuEJbD2eaQEz32gaS72
+SUMMARY:🍽️ Lunch: 5 Spice beef with bell pepper\, onion\, carrot and spring 
+	onion served with noodles
+DTSTAMP:20260205T203634Z
+DTSTART;VALUE=DATE:20260203
+DESCRIPTION:\n        🍗 Main: 5 Spice beef with bell pepper\, onion\, carro
+	t and spring onion served with noodles\n\n        🍜 Deli: Pulled pork\, bu
+	rger\, coleslaw and pickled red onions\n\n        🥬 Vegetarian: Grilled Eg
+	gplant with tahini dressing\, pomegranate and potatoes\n\n        Buon app
+	etito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:H2Mr9ULtFqvQZGpcmtqGA
+SUMMARY:🍽️ Lunch: Fish cake with remoulade and potatoes
+DTSTAMP:20260205T203634Z
+DTSTART;VALUE=DATE:20260204
+DESCRIPTION:\n        🍗 Main: Fish cake with remoulade and potatoes\n\n    
+	    🍜 Deli: Burning love with chives and beetroot\n\n        🥬 Vegetarian:
+	 Mushroom ragout with fried polenta\n\n        Buon appetito! 😋\n\n\n\n   
+	     Brought to you by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:mCiPD-2aXzZqiQWZ3yHzA
+SUMMARY:🍽️ Lunch: Roasted Chicken Thigh served with Ajvar salsa and lentils/
+	chickpeas topped with fresh thyme
+DTSTAMP:20260205T203634Z
+DTSTART;VALUE=DATE:20260205
+DESCRIPTION:\n        🍗 Main: Roasted Chicken Thigh served with Ajvar salsa
+	 and lentils/chickpeas topped with fresh thyme\n\n        🍜 Deli: Fish fil
+	let with remoulade and rye bread\n\n        🥬 Vegetarian: Curry masaman wi
+	th rice and tofu\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
+	 by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:jQd3CeUshbOnhA-N_Tmwt
+SUMMARY:🍽️ Lunch: Swedish sausage dish with chives
+DTSTAMP:20260205T203634Z
+DTSTART;VALUE=DATE:20260206
+DESCRIPTION:\n        🍗 Main: Swedish sausage dish with chives\n\n        🍜
+	 Deli: Poke bowl with coleslaw\, edemam\, avocado\, soy glaze and chicken\
+	n\n        🥬 Vegetarian: Beetroot Tartar with tarragon mayo\, chips and ch
+	ickpeas\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungr
+	y DML 🤠\n        
+LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
