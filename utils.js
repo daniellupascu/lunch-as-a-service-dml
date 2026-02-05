@@ -88,8 +88,8 @@ export async function generateCalendar() {
     const { error, value } = createEvents(events);
     if (error) throw error;
 
-    fs.mkdirSync("public", { recursive: true });
-    fs.writeFileSync("public/menu.ics", value);
+    fs.mkdirSync("docs", { recursive: true });
+    fs.writeFileSync("docs/menu.ics", value);
 }
 
 generateCalendar();
