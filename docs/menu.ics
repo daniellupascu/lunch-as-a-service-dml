@@ -5,64 +5,61 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qBihfvzB1kpCaryKj0QhT
-SUMMARY:🍽️ Lunch: Stuffed peppers with minced pork\, beans and lentils
-DTSTAMP:20260209T064215Z
-DTSTART;VALUE=DATE:20260212
-DESCRIPTION:\n        🍗 Main: Stuffed peppers with minced pork\, beans and 
-	lentils\n\n        🍜 Deli: Pastrami Open Faced Sandwiches with parmesan\, 
-	dijon mayo and cornichon\n\n        🥬 Vegetarian: Chickpea stew with spina
-	ch\, potatoes and carrots\n\n        Buon appetito! 😋\n\n\n\n        Broug
-	ht to you by hungry DML 🤠\n        
+UID:ks0M7YpEq0Qz6IRsSr4-D
+SUMMARY:🍽️ Lunch: Turkey schnitzel burger with fried potatoes
+DTSTAMP:20260216T064029Z
+DTSTART;VALUE=DATE:20260218
+DESCRIPTION:\n        🍗 Main: Turkey schnitzel burger with fried potatoes\n
+	\n        🍜 Deli: Chicken Open Faced Sandwiches with curry mayonnaise and 
+	fresh spinach\n\n        🥬 Vegetarian: Ratatouille with whole grain rice a
+	nd focaccia bread\n\n        Buon appetito! 😋\n\n\n\n        Brought to yo
+	u by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:3Ew58dA7dp5e_4Lylda1J
-SUMMARY:🍽️ Lunch: Grilled Turkey Cuvette with Roasted Carrots-Potatoes and L
-	emon Cream
-DTSTAMP:20260209T064215Z
-DTSTART;VALUE=DATE:20260210
-DESCRIPTION:\n        🍗 Main: Grilled Turkey Cuvette with Roasted Carrots-P
-	otatoes and Lemon Cream\n\n        🍜 Deli: Open Faced Sandwiches with Chic
-	ken Salad and Fish Salad\n\n        🥬 Vegetarian: Creamy whole wheat pasta
-	 with Tuscan tomato sauce and lentils\n\n        Buon appetito! 😋\n\n\n\n 
-	       Brought to you by hungry DML 🤠\n        
+UID:VpkuzPppmfE4Ma62AMKq1
+SUMMARY:🍽️ Lunch: Sicilian fish with pasta and capers
+DTSTAMP:20260216T064029Z
+DTSTART;VALUE=DATE:20260219
+DESCRIPTION:\n        🍗 Main: Sicilian fish with pasta and capers\n\n      
+	  🍜 Deli: Sausage mix with Aioli cream and roasted onion\n\n        🥬 Vege
+	tarian: Curry soup with coconut and noodles\n\n        Buon appetito! 😋\n\
+	n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:00ukkpP9bXgIwGR3JZZG7
-SUMMARY:🍽️ Lunch: Pork Vinderloo with basmati rice
-DTSTAMP:20260209T064215Z
-DTSTART;VALUE=DATE:20260209
-DESCRIPTION:\n        🍗 Main: Pork Vinderloo with basmati rice\n\n        🍜
-	 Deli: Pizza day: Potato with ricotta cheese cream and arugula & Ham with 
-	tomato and oregano\n\n        🥬 Vegetarian: Chili sin carne with rice and 
-	topping\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungr
-	y DML 🤠\n        
+UID:pNtSyKIEt9k3p5UrKmgZH
+SUMMARY:🍽️ Lunch: Curry buns with jasmine rice and toppings
+DTSTAMP:20260216T064029Z
+DTSTART;VALUE=DATE:20260220
+DESCRIPTION:\n        🍗 Main: Curry buns with jasmine rice and toppings\n\n
+	        🍜 Deli: Smoked Salmon on fried wholemeal bread and fennel salad\n\
+	n        🥬 Vegetarian: Eggplant Milanese with potato and red wine sauce\n\
+	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
+	       
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FxY30TtaWUo_mciyRH9hK
-SUMMARY:🍽️ Lunch: Green curry chicken with noodles and vegetables
-DTSTAMP:20260209T064215Z
-DTSTART;VALUE=DATE:20260211
-DESCRIPTION:\n        🍗 Main: Green curry chicken with noodles and vegetabl
-	es\n\n        🍜 Deli: Greek Meatballs with Tzatziki and Pasta\n\n        🥬
-	 Vegetarian: Indian Dahl with red lentils and naan bread\n\n        Buon a
-	ppetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:pDph5zcgKnO606o08WjfQ
+SUMMARY:🍽️ Lunch: Young Pao chicken with basmati rice
+DTSTAMP:20260216T064029Z
+DTSTART;VALUE=DATE:20260216
+DESCRIPTION:\n        🍗 Main: Young Pao chicken with basmati rice\n\n      
+	  🍜 Deli: Bacon pie with onion frisee salad and chive dressing\n\n        
+	🥬 Vegetarian: fried noodles with tofu\, grilled vegetables and soy sauce\n
+	\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n
+	        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:OTvt-fW0g-f68dS3NffkH
-SUMMARY:🍽️ Lunch: Spaghetti\, meatballs and tomato sauce with grated mozzare
-	lla
-DTSTAMP:20260209T064215Z
-DTSTART;VALUE=DATE:20260213
-DESCRIPTION:\n        🍗 Main: Spaghetti\, meatballs and tomato sauce with g
-	rated mozzarella\n\n        🍜 Deli: Chicken nuggets with fresh salad and c
-	hili mayonnaise\n\n        🥬 Vegetarian: Mushroom risotto with fuego beans
-	 and oregano\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
-	hungry DML 🤠\n        
+UID:bzJGCtkfA4o8Sn9riYPjz
+SUMMARY:🍽️ Lunch: grilled ham culotte with gratin dauphinois
+DTSTAMP:20260216T064029Z
+DTSTART;VALUE=DATE:20260217
+DESCRIPTION:\n        🍗 Main: grilled ham culotte with gratin dauphinois\n\
+	n        🍜 Deli: Salad Nicoise with tuna and bread croutons\n\n        🥬 V
+	egetarian: Palaak Paneer with spinach and bread\n\n        Buon appetito! 
+	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
