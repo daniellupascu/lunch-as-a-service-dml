@@ -5,61 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ks0M7YpEq0Qz6IRsSr4-D
-SUMMARY:🍽️ Lunch: Turkey schnitzel burger with fried potatoes
-DTSTAMP:20260216T064029Z
-DTSTART;VALUE=DATE:20260218
-DESCRIPTION:\n        🍗 Main: Turkey schnitzel burger with fried potatoes\n
-	\n        🍜 Deli: Chicken Open Faced Sandwiches with curry mayonnaise and 
-	fresh spinach\n\n        🥬 Vegetarian: Ratatouille with whole grain rice a
-	nd focaccia bread\n\n        Buon appetito! 😋\n\n\n\n        Brought to yo
-	u by hungry DML 🤠\n        
+UID:ubQjXyEsjAr-tw4fA2m6l
+SUMMARY:🍽️ Lunch: Chicken in red curry with noodles
+DTSTAMP:20260223T064126Z
+DTSTART;VALUE=DATE:20260223
+DESCRIPTION:\n        🍗 Main: Chicken in red curry with noodles\n\n        
+	🍜 Deli: Poke bowl with fresh salad and spicy beef balls\n\n        🥬 Veget
+	arian: Vegetarian Moussaka with eggplant\, potatoes and bechamel sauce\n\n
+	        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n  
+	      
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:VpkuzPppmfE4Ma62AMKq1
-SUMMARY:🍽️ Lunch: Sicilian fish with pasta and capers
-DTSTAMP:20260216T064029Z
-DTSTART;VALUE=DATE:20260219
-DESCRIPTION:\n        🍗 Main: Sicilian fish with pasta and capers\n\n      
-	  🍜 Deli: Sausage mix with Aioli cream and roasted onion\n\n        🥬 Vege
-	tarian: Curry soup with coconut and noodles\n\n        Buon appetito! 😋\n\
-	n\n\n        Brought to you by hungry DML 🤠\n        
+UID:-FqeqHutXVmDT17zStpEB
+SUMMARY:🍽️ Lunch: pasta penne with mushrooms and beef
+DTSTAMP:20260223T064126Z
+DTSTART;VALUE=DATE:20260224
+DESCRIPTION:\n        🍗 Main: pasta penne with mushrooms and beef\n\n      
+	  🍜 Deli: Croissant filled with egg and bacon\, served with fruit salad\n\
+	n        🥬 Vegetarian: Fried Cauliflower with curry cream\, split chickpea
+	s and chervil\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
+	 hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:pNtSyKIEt9k3p5UrKmgZH
-SUMMARY:🍽️ Lunch: Curry buns with jasmine rice and toppings
-DTSTAMP:20260216T064029Z
-DTSTART;VALUE=DATE:20260220
-DESCRIPTION:\n        🍗 Main: Curry buns with jasmine rice and toppings\n\n
-	        🍜 Deli: Smoked Salmon on fried wholemeal bread and fennel salad\n\
-	n        🥬 Vegetarian: Eggplant Milanese with potato and red wine sauce\n\
-	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
-	       
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:pDph5zcgKnO606o08WjfQ
-SUMMARY:🍽️ Lunch: Young Pao chicken with basmati rice
-DTSTAMP:20260216T064029Z
-DTSTART;VALUE=DATE:20260216
-DESCRIPTION:\n        🍗 Main: Young Pao chicken with basmati rice\n\n      
-	  🍜 Deli: Bacon pie with onion frisee salad and chive dressing\n\n        
-	🥬 Vegetarian: fried noodles with tofu\, grilled vegetables and soy sauce\n
-	\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n
-	        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:bzJGCtkfA4o8Sn9riYPjz
-SUMMARY:🍽️ Lunch: grilled ham culotte with gratin dauphinois
-DTSTAMP:20260216T064029Z
-DTSTART;VALUE=DATE:20260217
-DESCRIPTION:\n        🍗 Main: grilled ham culotte with gratin dauphinois\n\
-	n        🍜 Deli: Salad Nicoise with tuna and bread croutons\n\n        🥬 V
-	egetarian: Palaak Paneer with spinach and bread\n\n        Buon appetito! 
+UID:pUhRqoKzjF-nPc-0iA6Ew
+SUMMARY:🍽️ Lunch: Fried chicken with sweet potato and coleslaw
+DTSTAMP:20260223T064126Z
+DTSTART;VALUE=DATE:20260225
+DESCRIPTION:\n        🍗 Main: Fried chicken with sweet potato and coleslaw\
+	n\n        🍜 Deli: 2 types of Open Faced Sandwicheses: Liver pâté with bac
+	on\, sour cream and turkey paprika with curry\n\n        🥬 Vegetarian: Can
+	nelloni with spinach\, ricotta and tomato sauce\n\n        Buon appetito! 
 	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:Jq5ANGL3H3RdsQE26rnUV
+SUMMARY:🍽️ Lunch: Cheeseburger with boat potatoes
+DTSTAMP:20260223T064126Z
+DTSTART;VALUE=DATE:20260226
+DESCRIPTION:\n        🍗 Main: Cheeseburger with boat potatoes\n\n        🍜 
+	Deli: Bagel with cream cheese\, ham and cheddar cheese\n\n        🥬 Vegeta
+	rian: Long-time baked celeriac with creamy mashed potatoes\, browned butte
+	r and cress\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by h
+	ungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:U3E6Gwum64DBuF7jX2KJf
+SUMMARY:🍽️ Lunch: Panko fried Cod with greens and Sauce tartar
+DTSTAMP:20260223T064126Z
+DTSTART;VALUE=DATE:20260227
+DESCRIPTION:\n        🍗 Main: Panko fried Cod with greens and Sauce tartar\
+	n\n        🍜 Deli: Egg cake with delicious French salad\n\n        🥬 Veget
+	arian: Veggi Hotdag with tomato relish\, spicy jam and herbs\n\n        Bu
+	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
