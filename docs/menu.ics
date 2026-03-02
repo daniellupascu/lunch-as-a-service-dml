@@ -5,62 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:ubQjXyEsjAr-tw4fA2m6l
-SUMMARY:🍽️ Lunch: Chicken in red curry with noodles
-DTSTAMP:20260223T064126Z
-DTSTART;VALUE=DATE:20260223
-DESCRIPTION:\n        🍗 Main: Chicken in red curry with noodles\n\n        
-	🍜 Deli: Poke bowl with fresh salad and spicy beef balls\n\n        🥬 Veget
-	arian: Vegetarian Moussaka with eggplant\, potatoes and bechamel sauce\n\n
-	        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n  
-	      
+UID:29ogmWA9_tcuVXVyvJSYW
+SUMMARY:🍽️ Lunch: Pasta salsicco with pork sausages
+DTSTAMP:20260302T061058Z
+DTSTART;VALUE=DATE:20260302
+DESCRIPTION:\n        🍗 Main: Pasta salsicco with pork sausages\n\n        
+	🍜 Deli: Fish rillette with toasted rye bread\n\n        🥬 Vegetarian: Vege
+	table soup with sour cream\n\n        Buon appetito! 😋\n\n\n\n        Brou
+	ght to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:-FqeqHutXVmDT17zStpEB
-SUMMARY:🍽️ Lunch: pasta penne with mushrooms and beef
-DTSTAMP:20260223T064126Z
-DTSTART;VALUE=DATE:20260224
-DESCRIPTION:\n        🍗 Main: pasta penne with mushrooms and beef\n\n      
-	  🍜 Deli: Croissant filled with egg and bacon\, served with fruit salad\n\
-	n        🥬 Vegetarian: Fried Cauliflower with curry cream\, split chickpea
-	s and chervil\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
-	 hungry DML 🤠\n        
+UID:lh4rKF21wJJdKqxyNnMwC
+SUMMARY:🍽️ Lunch: Chicken thighs in orange sauce and rice
+DTSTAMP:20260302T061058Z
+DTSTART;VALUE=DATE:20260303
+DESCRIPTION:\n        🍗 Main: Chicken thighs in orange sauce and rice\n\n  
+	      🍜 Deli: Spring rolls with sweet chili and salad\n\n        🥬 Vegetar
+	ian: Braised Pakchoy with hazelnuts\, tofu and sesame dressing\n\n        
+	Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:pUhRqoKzjF-nPc-0iA6Ew
-SUMMARY:🍽️ Lunch: Fried chicken with sweet potato and coleslaw
-DTSTAMP:20260223T064126Z
-DTSTART;VALUE=DATE:20260225
-DESCRIPTION:\n        🍗 Main: Fried chicken with sweet potato and coleslaw\
-	n\n        🍜 Deli: 2 types of Open Faced Sandwicheses: Liver pâté with bac
-	on\, sour cream and turkey paprika with curry\n\n        🥬 Vegetarian: Can
-	nelloni with spinach\, ricotta and tomato sauce\n\n        Buon appetito! 
-	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:YYud78koP_ud8gsCGqW2o
+SUMMARY:🍽️ Lunch: Million steak with mashed potatoes
+DTSTAMP:20260302T061058Z
+DTSTART;VALUE=DATE:20260304
+DESCRIPTION:\n        🍗 Main: Million steak with mashed potatoes\n\n       
+	 🍜 Deli: Chicken drumstick with potato salad\n\n        🥬 Vegetarian: Chan
+	a Masala with rice and vegetables\n\n        Buon appetito! 😋\n\n\n\n     
+	   Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Jq5ANGL3H3RdsQE26rnUV
-SUMMARY:🍽️ Lunch: Cheeseburger with boat potatoes
-DTSTAMP:20260223T064126Z
-DTSTART;VALUE=DATE:20260226
-DESCRIPTION:\n        🍗 Main: Cheeseburger with boat potatoes\n\n        🍜 
-	Deli: Bagel with cream cheese\, ham and cheddar cheese\n\n        🥬 Vegeta
-	rian: Long-time baked celeriac with creamy mashed potatoes\, browned butte
-	r and cress\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by h
-	ungry DML 🤠\n        
+UID:sjg3o1kM0q-fHjCpF2Uzq
+SUMMARY:🍽️ Lunch: Pork chop on a platter with basmati rice
+DTSTAMP:20260302T061058Z
+DTSTART;VALUE=DATE:20260305
+DESCRIPTION:\n        🍗 Main: Pork chop on a platter with basmati rice\n\n 
+	       🍜 Deli: Leek pie with bacon and frisee salad\n\n        🥬 Vegetaria
+	n: burrito with salsa and sour cream\n\n        Buon appetito! 😋\n\n\n\n  
+	      Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:U3E6Gwum64DBuF7jX2KJf
-SUMMARY:🍽️ Lunch: Panko fried Cod with greens and Sauce tartar
-DTSTAMP:20260223T064126Z
-DTSTART;VALUE=DATE:20260227
-DESCRIPTION:\n        🍗 Main: Panko fried Cod with greens and Sauce tartar\
-	n\n        🍜 Deli: Egg cake with delicious French salad\n\n        🥬 Veget
-	arian: Veggi Hotdag with tomato relish\, spicy jam and herbs\n\n        Bu
-	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:WInQSOSkb3CiY-ZIiXVlD
+SUMMARY:🍽️ Lunch: Vienna sausage with everything
+DTSTAMP:20260302T061058Z
+DTSTART;VALUE=DATE:20260306
+DESCRIPTION:\n        🍗 Main: Vienna sausage with everything\n\n        🍜 D
+	eli: Pasta salad with peas\, corn and turkey\n\n        🥬 Vegetarian: Tart
+	lets with celery\, peas and asparagus\n\n        Buon appetito! 😋\n\n\n\n 
+	       Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
