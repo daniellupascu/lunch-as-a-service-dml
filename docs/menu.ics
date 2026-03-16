@@ -5,60 +5,61 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:eNSBenH_1peMosim9DQol
-SUMMARY:🍽️ Lunch: Chicken Tikka Masala with Cumin Rice
-DTSTAMP:20260309T063623Z
-DTSTART;VALUE=DATE:20260309
-DESCRIPTION:\n        🍗 Main: Chicken Tikka Masala with Cumin Rice\n\n     
-	   🍜 Deli: Pokebowl Indian style (ham balls\, corn\, edemam\, black beans\
-	, carrot\, cabbage and curry dressing)\n\n        🥬 Vegetarian: Ful Mudamm
-	as Egypt\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
-	ry DML 🤠\n        
+UID:IPV5-jS2HexmXzynZPB_T
+SUMMARY:🍽️ Lunch: Chicken mi yellow curry and noodles
+DTSTAMP:20260316T065239Z
+DTSTART;VALUE=DATE:20260316
+DESCRIPTION:\n        🍗 Main: Chicken mi yellow curry and noodles\n\n      
+	  🍜 Deli: Spring rolls with beef and vegetables served with rice salad\n\n
+	        🥬 Vegetarian: Pasta with pesto\, chili and grilled vegetables\n\n 
+	       Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n   
+	     
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:EQBI2km6Lr7k1ugBmfk4G
-SUMMARY:🍽️ Lunch: Mexican Hotpot with pork and vegetables
-DTSTAMP:20260309T063623Z
-DTSTART;VALUE=DATE:20260310
-DESCRIPTION:\n        🍗 Main: Mexican Hotpot with pork and vegetables\n\n  
-	      🍜 Deli: Fish meatballs with sweet potato and beetroot\n\n        🥬 V
-	egetarian: Chili sin carne with rice\n\n        Buon appetito! 😋\n\n\n\n  
-	      Brought to you by hungry DML 🤠\n        
+UID:Q-lmEXU6hxIfvGcYmZQEc
+SUMMARY:🍽️ Lunch: Pasta with mushrooms and beef
+DTSTAMP:20260316T065239Z
+DTSTART;VALUE=DATE:20260317
+DESCRIPTION:\n        🍗 Main: Pasta with mushrooms and beef\n\n        🍜 De
+	li: Chicken skewers with bulgur\, red cabbage and tzatziki\n\n        🥬 Ve
+	getarian: Feisoada Bean compote with rice\n\n        Buon appetito! 😋\n\n\
+	n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:r4OU3EAMH5f-_oDXdBqbf
-SUMMARY:🍽️ Lunch: Grilled turkey with tortilla wrap and tzatziki
-DTSTAMP:20260309T063623Z
-DTSTART;VALUE=DATE:20260311
-DESCRIPTION:\n        🍗 Main: Grilled turkey with tortilla wrap and tzatzik
-	i\n\n        🍜 Deli: Open Faced Sandwiches with ham salad and potatoes\n\n
-	        🥬 Vegetarian: Veggi Meatballs with pearl barley and lentils Herb c
-	ream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry D
-	ML 🤠\n        
+UID:FiDGPRJsi-tDk6uOheoUD
+SUMMARY:🍽️ Lunch: pad krapow herbs in juilliene\, lime coriander and basil d
+	own rice
+DTSTAMP:20260316T065239Z
+DTSTART;VALUE=DATE:20260318
+DESCRIPTION:\n        🍗 Main: pad krapow herbs in juilliene\, lime coriande
+	r and basil down rice\n\n        🍜 Deli: Hot day with frankfurters\, pickl
+	ed red onions and potatoes\n\n        🥬 Vegetarian: Causa limena potato di
+	sh\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML
+	 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:qS_IBVWHzev6Wk-Otmtqy
-SUMMARY:🍽️ Lunch: Szechuan Roast Pork with Noodles and Asian Sauce
-DTSTAMP:20260309T063623Z
-DTSTART;VALUE=DATE:20260312
-DESCRIPTION:\n        🍗 Main: Szechuan Roast Pork with Noodles and Asian Sa
-	uce\n\n        🍜 Deli: Zucchini souffle with oregano and piquillio dressin
-	g\n\n        🥬 Vegetarian: Paneer Butten Masala\n\n        Buon appetito! 
+UID:EI4KJbFV6Tw6WNnU7KBVo
+SUMMARY:🍽️ Lunch: Glazed ham with braised potatoes and peas
+DTSTAMP:20260316T065239Z
+DTSTART;VALUE=DATE:20260319
+DESCRIPTION:\n        🍗 Main: Glazed ham with braised potatoes and peas\n\n
+	        🍜 Deli: Open Faced Sandwiches with chicken salad and eggs\n\n     
+	   🥬 Vegetarian: Pao Thai with tofu and peanuts\n\n        Buon appetito! 
 	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Aa_aASph0SJ6kycsg4rPs
-SUMMARY:🍽️ Lunch: Beef Lasagna
-DTSTAMP:20260309T063623Z
-DTSTART;VALUE=DATE:20260313
-DESCRIPTION:\n        🍗 Main: Beef Lasagna\n\n        🍜 Deli: Swedish sausa
-	ge dish with crispy salad\n\n        🥬 Vegetarian: Veggi Ramen\, miso\, to
-	fu\, mushrooms and noodles\n\n        Buon appetito! 😋\n\n\n\n        Brou
-	ght to you by hungry DML 🤠\n        
+UID:t23tRRkGQ6nbuoMPfuor-
+SUMMARY:🍽️ Lunch: Bao bun with crispy turkey and mild hoisin sauce
+DTSTAMP:20260316T065239Z
+DTSTART;VALUE=DATE:20260320
+DESCRIPTION:\n        🍗 Main: Bao bun with crispy turkey and mild hoisin sa
+	uce\n\n        🍜 Deli: Veggie meatball with raita\n\n        🥬 Vegetarian:
+	 Ravioli with mushrooms ala cream\n\n        Buon appetito! 😋\n\n\n\n     
+	   Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
