@@ -5,61 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:IPV5-jS2HexmXzynZPB_T
-SUMMARY:🍽️ Lunch: Chicken mi yellow curry and noodles
-DTSTAMP:20260316T065239Z
-DTSTART;VALUE=DATE:20260316
-DESCRIPTION:\n        🍗 Main: Chicken mi yellow curry and noodles\n\n      
-	  🍜 Deli: Spring rolls with beef and vegetables served with rice salad\n\n
-	        🥬 Vegetarian: Pasta with pesto\, chili and grilled vegetables\n\n 
-	       Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n   
-	     
+UID:KAefMHrCxxOSYemdoItt8
+SUMMARY:🍽️ Lunch: Tartlets with chicken and asparagus
+DTSTAMP:20260323T064720Z
+DTSTART;VALUE=DATE:20260323
+DESCRIPTION:\n        🍗 Main: Tartlets with chicken and asparagus\n\n      
+	  🍜 Deli: Quesadilla with ham and tomato salsa\n\n        🥬 Vegetarian: Ve
+	getable pasta carbonara\n\n        Buon appetito! 😋\n\n\n\n        Brought
+	 to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Q-lmEXU6hxIfvGcYmZQEc
-SUMMARY:🍽️ Lunch: Pasta with mushrooms and beef
-DTSTAMP:20260316T065239Z
-DTSTART;VALUE=DATE:20260317
-DESCRIPTION:\n        🍗 Main: Pasta with mushrooms and beef\n\n        🍜 De
-	li: Chicken skewers with bulgur\, red cabbage and tzatziki\n\n        🥬 Ve
-	getarian: Feisoada Bean compote with rice\n\n        Buon appetito! 😋\n\n\
-	n\n        Brought to you by hungry DML 🤠\n        
+UID:ycg-GK9OAbsJ973SD0-g9
+SUMMARY:🍽️ Lunch: Spaghetti bolognese
+DTSTAMP:20260323T064720Z
+DTSTART;VALUE=DATE:20260324
+DESCRIPTION:\n        🍗 Main: Spaghetti bolognese\n\n        🍜 Deli: Spanis
+	h omelette with potatoes and onions\, served with crispy bacon and frisee 
+	salad\n\n        🥬 Vegetarian: Dal tadka (Indian lentil stew)\n\n        B
+	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FiDGPRJsi-tDk6uOheoUD
-SUMMARY:🍽️ Lunch: pad krapow herbs in juilliene\, lime coriander and basil d
-	own rice
-DTSTAMP:20260316T065239Z
-DTSTART;VALUE=DATE:20260318
-DESCRIPTION:\n        🍗 Main: pad krapow herbs in juilliene\, lime coriande
-	r and basil down rice\n\n        🍜 Deli: Hot day with frankfurters\, pickl
-	ed red onions and potatoes\n\n        🥬 Vegetarian: Causa limena potato di
-	sh\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML
-	 🤠\n        
+UID:5Ks8QLyFKtPjmFCDg7wJx
+SUMMARY:🍽️ Lunch: Pork fillet with fried vegetables and potatoes
+DTSTAMP:20260323T064720Z
+DTSTART;VALUE=DATE:20260325
+DESCRIPTION:\n        🍗 Main: Pork fillet with fried vegetables and potatoe
+	s\n\n        🍜 Deli: Pastrami Open Faced Sandwiches with horseradish and p
+	ickles\n\n        🥬 Vegetarian: leek tempura with sauce piquante\n\n      
+	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:EI4KJbFV6Tw6WNnU7KBVo
-SUMMARY:🍽️ Lunch: Glazed ham with braised potatoes and peas
-DTSTAMP:20260316T065239Z
-DTSTART;VALUE=DATE:20260319
-DESCRIPTION:\n        🍗 Main: Glazed ham with braised potatoes and peas\n\n
-	        🍜 Deli: Open Faced Sandwiches with chicken salad and eggs\n\n     
-	   🥬 Vegetarian: Pao Thai with tofu and peanuts\n\n        Buon appetito! 
-	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:M9kfUCQfiV5ggRTOsKW5m
+SUMMARY:🍽️ Lunch: Fish burger with pickled red onions\, cucumber and tartar 
+	sauce
+DTSTAMP:20260323T064720Z
+DTSTART;VALUE=DATE:20260326
+DESCRIPTION:\n        🍗 Main: Fish burger with pickled red onions\, cucumbe
+	r and tartar sauce\n\n        🍜 Deli: Open Open Faced Sandwicheses: Roast 
+	pork & fish fillet\n\n        🥬 Vegetarian: Kimchi Friduis\n\n        Buon
+	 appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:t23tRRkGQ6nbuoMPfuor-
-SUMMARY:🍽️ Lunch: Bao bun with crispy turkey and mild hoisin sauce
-DTSTAMP:20260316T065239Z
-DTSTART;VALUE=DATE:20260320
-DESCRIPTION:\n        🍗 Main: Bao bun with crispy turkey and mild hoisin sa
-	uce\n\n        🍜 Deli: Veggie meatball with raita\n\n        🥬 Vegetarian:
-	 Ravioli with mushrooms ala cream\n\n        Buon appetito! 😋\n\n\n\n     
-	   Brought to you by hungry DML 🤠\n        
+UID:iLPfBFhWAJpvIPMTMyKye
+SUMMARY:🍽️ Lunch: Banh Mi with turkey\, Do Chua\, chili mayo and coriander
+DTSTAMP:20260323T064720Z
+DTSTART;VALUE=DATE:20260327
+DESCRIPTION:\n        🍗 Main: Banh Mi with turkey\, Do Chua\, chili mayo an
+	d coriander\n\n        🍜 Deli: Pulled pork super bowl\n\n        🥬 Vegetar
+	ian: Rasma masala (Bean stew)\n\n        Buon appetito! 😋\n\n\n\n        B
+	rought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
