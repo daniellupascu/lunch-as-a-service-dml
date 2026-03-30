@@ -5,59 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:KAefMHrCxxOSYemdoItt8
-SUMMARY:🍽️ Lunch: Tartlets with chicken and asparagus
-DTSTAMP:20260323T064720Z
-DTSTART;VALUE=DATE:20260323
-DESCRIPTION:\n        🍗 Main: Tartlets with chicken and asparagus\n\n      
-	  🍜 Deli: Quesadilla with ham and tomato salsa\n\n        🥬 Vegetarian: Ve
-	getable pasta carbonara\n\n        Buon appetito! 😋\n\n\n\n        Brought
-	 to you by hungry DML 🤠\n        
+UID:4aSxByQYrVMF8meMt9QPc
+SUMMARY:🍽️ Lunch: Souvlaki with pork\, Greek flatbread and tomato-cucumber-o
+	nion compote
+DTSTAMP:20260330T070700Z
+DTSTART;VALUE=DATE:20260401
+DESCRIPTION:\n        🍗 Main: Souvlaki with pork\, Greek flatbread and toma
+	to-cucumber-onion compote\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegeta
+	rian: African chickpea compote with potatoes\, carrots and baked onions\n\
+	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
+	       
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:ycg-GK9OAbsJ973SD0-g9
-SUMMARY:🍽️ Lunch: Spaghetti bolognese
-DTSTAMP:20260323T064720Z
-DTSTART;VALUE=DATE:20260324
-DESCRIPTION:\n        🍗 Main: Spaghetti bolognese\n\n        🍜 Deli: Spanis
-	h omelette with potatoes and onions\, served with crispy bacon and frisee 
-	salad\n\n        🥬 Vegetarian: Dal tadka (Indian lentil stew)\n\n        B
-	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:bDF_EO6JNPETpLut5AoLa
+SUMMARY:🍽️ Lunch: Chicken-spinach lasagna with pesto and crispy
+DTSTAMP:20260330T070700Z
+DTSTART;VALUE=DATE:20260330
+DESCRIPTION:\n        🍗 Main: Chicken-spinach lasagna with pesto and crispy
+	\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegetarian: Indian dahl soup wi
+	th green oil and nigella bread\n\n        Buon appetito! 😋\n\n\n\n        
+	Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:5Ks8QLyFKtPjmFCDg7wJx
-SUMMARY:🍽️ Lunch: Pork fillet with fried vegetables and potatoes
-DTSTAMP:20260323T064720Z
-DTSTART;VALUE=DATE:20260325
-DESCRIPTION:\n        🍗 Main: Pork fillet with fried vegetables and potatoe
-	s\n\n        🍜 Deli: Pastrami Open Faced Sandwiches with horseradish and p
-	ickles\n\n        🥬 Vegetarian: leek tempura with sauce piquante\n\n      
-	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:bpdpIhel1P6YojJcaa9kR
+SUMMARY:🍽️ Lunch: 
+DTSTAMP:20260330T070700Z
+DTSTART;VALUE=DATE:20260402
+DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: EASTER\n\n        🥬 Veget
+	arian: EASTER\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
+	 hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:M9kfUCQfiV5ggRTOsKW5m
-SUMMARY:🍽️ Lunch: Fish burger with pickled red onions\, cucumber and tartar 
-	sauce
-DTSTAMP:20260323T064720Z
-DTSTART;VALUE=DATE:20260326
-DESCRIPTION:\n        🍗 Main: Fish burger with pickled red onions\, cucumbe
-	r and tartar sauce\n\n        🍜 Deli: Open Open Faced Sandwicheses: Roast 
-	pork & fish fillet\n\n        🥬 Vegetarian: Kimchi Friduis\n\n        Buon
-	 appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:XA-Q1je-vFpO8UK7mTfin
+SUMMARY:🍽️ Lunch: Chili con carne with beef and beans. Served with rice
+DTSTAMP:20260330T070700Z
+DTSTART;VALUE=DATE:20260331
+DESCRIPTION:\n        🍗 Main: Chili con carne with beef and beans. Served w
+	ith rice\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegetarian: Grilled Egg
+	plant with lemon\, tomato\, olives and Cous-Cous\n\n        Buon appetito!
+	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:iLPfBFhWAJpvIPMTMyKye
-SUMMARY:🍽️ Lunch: Banh Mi with turkey\, Do Chua\, chili mayo and coriander
-DTSTAMP:20260323T064720Z
-DTSTART;VALUE=DATE:20260327
-DESCRIPTION:\n        🍗 Main: Banh Mi with turkey\, Do Chua\, chili mayo an
-	d coriander\n\n        🍜 Deli: Pulled pork super bowl\n\n        🥬 Vegetar
-	ian: Rasma masala (Bean stew)\n\n        Buon appetito! 😋\n\n\n\n        B
-	rought to you by hungry DML 🤠\n        
+UID:JSOHF3z8mrDsTesHgRvNQ
+SUMMARY:🍽️ Lunch: EASTER
+DTSTAMP:20260330T070700Z
+DTSTART;VALUE=DATE:20260403
+DESCRIPTION:\n        🍗 Main: EASTER\n\n        🍜 Deli: EASTER\n\n        🥬
+	 Vegetarian: \n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
+	 hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
