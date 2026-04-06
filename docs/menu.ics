@@ -5,58 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:4aSxByQYrVMF8meMt9QPc
-SUMMARY:🍽️ Lunch: Souvlaki with pork\, Greek flatbread and tomato-cucumber-o
-	nion compote
-DTSTAMP:20260330T070700Z
-DTSTART;VALUE=DATE:20260401
-DESCRIPTION:\n        🍗 Main: Souvlaki with pork\, Greek flatbread and toma
-	to-cucumber-onion compote\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegeta
-	rian: African chickpea compote with potatoes\, carrots and baked onions\n\
-	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
-	       
+UID:qOSL5XR_uadv0jvsraHKN
+SUMMARY:🍽️ Lunch: coq au vin with mashed potatoes
+DTSTAMP:20260406T070840Z
+DTSTART;VALUE=DATE:20260408
+DESCRIPTION:\n        🍗 Main: coq au vin with mashed potatoes\n\n        🍜 
+	Deli: Tuna salad with crispy lettuce and toasted bread\n\n        🥬 Vegeta
+	rian: Beluga lentils with baked root vegetables French style\n\n        Bu
+	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:bDF_EO6JNPETpLut5AoLa
-SUMMARY:🍽️ Lunch: Chicken-spinach lasagna with pesto and crispy
-DTSTAMP:20260330T070700Z
-DTSTART;VALUE=DATE:20260330
-DESCRIPTION:\n        🍗 Main: Chicken-spinach lasagna with pesto and crispy
-	\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegetarian: Indian dahl soup wi
-	th green oil and nigella bread\n\n        Buon appetito! 😋\n\n\n\n        
-	Brought to you by hungry DML 🤠\n        
+UID:1uWigMKRIhi2hFfLIWtoD
+SUMMARY:🍽️ Lunch: Panang chicken with rice
+DTSTAMP:20260406T070840Z
+DTSTART;VALUE=DATE:20260409
+DESCRIPTION:\n        🍗 Main: Panang chicken with rice\n\n        🍜 Deli: 2
+	 types of Open Faced Sandwicheses: Roast beef with remoulade and sour crea
+	m & potato salad with may\n\n        🥬 Vegetarian: Vegetable wok with soy 
+	meat and noodles\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
+	 by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:bpdpIhel1P6YojJcaa9kR
+UID:kDiaq4NbKWYWz52JVnQ_y
 SUMMARY:🍽️ Lunch: 
-DTSTAMP:20260330T070700Z
-DTSTART;VALUE=DATE:20260402
-DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: EASTER\n\n        🥬 Veget
-	arian: EASTER\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
-	 hungry DML 🤠\n        
+DTSTAMP:20260406T070840Z
+DTSTART;VALUE=DATE:20260406
+DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: \n\n        🥬 Vegetarian:
+	 EASTER\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungr
+	y DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:XA-Q1je-vFpO8UK7mTfin
-SUMMARY:🍽️ Lunch: Chili con carne with beef and beans. Served with rice
-DTSTAMP:20260330T070700Z
-DTSTART;VALUE=DATE:20260331
-DESCRIPTION:\n        🍗 Main: Chili con carne with beef and beans. Served w
-	ith rice\n\n        🍜 Deli: Salad bar\n\n        🥬 Vegetarian: Grilled Egg
-	plant with lemon\, tomato\, olives and Cous-Cous\n\n        Buon appetito!
-	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:829YKSAhnk-3S-wYKwwCL
+SUMMARY:🍽️ Lunch: 2 types of pizza with kebab and ham
+DTSTAMP:20260406T070840Z
+DTSTART;VALUE=DATE:20260410
+DESCRIPTION:\n        🍗 Main: 2 types of pizza with kebab and ham\n\n      
+	  🍜 Deli: poke bowl with fried chicken\, edemame\, soy glace and nuts\n\n 
+	       🥬 Vegetarian: vegan Paella with rice and vegetables\n\n        Buon
+	 appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:JSOHF3z8mrDsTesHgRvNQ
-SUMMARY:🍽️ Lunch: EASTER
-DTSTAMP:20260330T070700Z
-DTSTART;VALUE=DATE:20260403
-DESCRIPTION:\n        🍗 Main: EASTER\n\n        🍜 Deli: EASTER\n\n        🥬
-	 Vegetarian: \n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
-	 hungry DML 🤠\n        
+UID:gBjvM8vMBxSOepzOqSS_0
+SUMMARY:🍽️ Lunch: Greek Kofke with salad and bread
+DTSTAMP:20260406T070840Z
+DTSTART;VALUE=DATE:20260407
+DESCRIPTION:\n        🍗 Main: Greek Kofke with salad and bread\n\n        🍜
+	 Deli: Croque madam with potato chips\n\n        🥬 Vegetarian: creamy mush
+	room risotto\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
+	hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
