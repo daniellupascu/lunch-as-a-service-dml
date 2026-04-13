@@ -5,58 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qOSL5XR_uadv0jvsraHKN
-SUMMARY:🍽️ Lunch: coq au vin with mashed potatoes
-DTSTAMP:20260406T070840Z
-DTSTART;VALUE=DATE:20260408
-DESCRIPTION:\n        🍗 Main: coq au vin with mashed potatoes\n\n        🍜 
-	Deli: Tuna salad with crispy lettuce and toasted bread\n\n        🥬 Vegeta
-	rian: Beluga lentils with baked root vegetables French style\n\n        Bu
-	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:VCR0t1lFmBU4mKofmf4N0
+SUMMARY:🍽️ Lunch: Massaman curry with chicken and rice
+DTSTAMP:20260413T072647Z
+DTSTART;VALUE=DATE:20260415
+DESCRIPTION:\n        🍗 Main: Massaman curry with chicken and rice\n\n     
+	   🍜 Deli: Greek salad with beef-chicken chunks\, olives and feta\n\n     
+	   🥬 Vegetarian: Vegetable meatballs with kimchi and coleslaw\, sesame-min
+	t dressing\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hu
+	ngry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:1uWigMKRIhi2hFfLIWtoD
-SUMMARY:🍽️ Lunch: Panang chicken with rice
-DTSTAMP:20260406T070840Z
-DTSTART;VALUE=DATE:20260409
-DESCRIPTION:\n        🍗 Main: Panang chicken with rice\n\n        🍜 Deli: 2
-	 types of Open Faced Sandwicheses: Roast beef with remoulade and sour crea
-	m & potato salad with may\n\n        🥬 Vegetarian: Vegetable wok with soy 
-	meat and noodles\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
-	 by hungry DML 🤠\n        
+UID:Q_fNZTZZm9vtTKIvSiqJz
+SUMMARY:🍽️ Lunch: Pulled pork open Open Faced Sandwiches
+DTSTAMP:20260413T072647Z
+DTSTART;VALUE=DATE:20260416
+DESCRIPTION:\n        🍗 Main: Pulled pork open Open Faced Sandwiches\n\n   
+	     🍜 Deli: onion pie with goat cheese\, olives and arugula\n\n        🥬 
+	Vegetarian: mushroom stroganoff with sweetpotato mash and pea shoots\n\n  
+	      Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n    
+	    
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:kDiaq4NbKWYWz52JVnQ_y
-SUMMARY:🍽️ Lunch: 
-DTSTAMP:20260406T070840Z
-DTSTART;VALUE=DATE:20260406
-DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: \n\n        🥬 Vegetarian:
-	 EASTER\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungr
-	y DML 🤠\n        
+UID:g_XcdiAdtDQkhYMgJcOiY
+SUMMARY:🍽️ Lunch: Bangers and mash (medicinal sausage)
+DTSTAMP:20260413T072647Z
+DTSTART;VALUE=DATE:20260414
+DESCRIPTION:\n        🍗 Main: Bangers and mash (medicinal sausage)\n\n     
+	   🍜 Deli: Flexitarian open-faced Open Faced Sandwiches chickpea-oyster ha
+	t salad (Ala chicken salad French len\n\n        🥬 Vegetarian: Yorkshire p
+	udding with mushrooms\n\n        Buon appetito! 😋\n\n\n\n        Brought t
+	o you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:829YKSAhnk-3S-wYKwwCL
-SUMMARY:🍽️ Lunch: 2 types of pizza with kebab and ham
-DTSTAMP:20260406T070840Z
-DTSTART;VALUE=DATE:20260410
-DESCRIPTION:\n        🍗 Main: 2 types of pizza with kebab and ham\n\n      
-	  🍜 Deli: poke bowl with fried chicken\, edemame\, soy glace and nuts\n\n 
-	       🥬 Vegetarian: vegan Paella with rice and vegetables\n\n        Buon
-	 appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:5p1v8rvnGXwZWceUCvlRQ
+SUMMARY:🍽️ Lunch: Pork leg with BBQ\, fried potatoes and coleslaw
+DTSTAMP:20260413T072647Z
+DTSTART;VALUE=DATE:20260413
+DESCRIPTION:\n        🍗 Main: Pork leg with BBQ\, fried potatoes and colesl
+	aw\n\n        🍜 Deli: Greek flatbread with chicken salad and crispy lettuc
+	e\n\n        🥬 Vegetarian: Veggi Tortilla with tomato-pineapple salsa and 
+	sour cream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hu
+	ngry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:gBjvM8vMBxSOepzOqSS_0
-SUMMARY:🍽️ Lunch: Greek Kofke with salad and bread
-DTSTAMP:20260406T070840Z
-DTSTART;VALUE=DATE:20260407
-DESCRIPTION:\n        🍗 Main: Greek Kofke with salad and bread\n\n        🍜
-	 Deli: Croque madam with potato chips\n\n        🥬 Vegetarian: creamy mush
-	room risotto\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
-	hungry DML 🤠\n        
+UID:9Lq24VvLL_qarmZzToKZv
+SUMMARY:🍽️ Lunch: Chicken Alfredo with pasta
+DTSTAMP:20260413T072647Z
+DTSTART;VALUE=DATE:20260417
+DESCRIPTION:\n        🍗 Main: Chicken Alfredo with pasta\n\n        🍜 Deli:
+	 stuffed portobello\, red lentil puree and herb paradise\n\n        🥬 Vege
+	tarian: falafel with garlic dressing\n\n        Buon appetito! 😋\n\n\n\n  
+	      Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
