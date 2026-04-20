@@ -5,62 +5,63 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:VCR0t1lFmBU4mKofmf4N0
-SUMMARY:🍽️ Lunch: Massaman curry with chicken and rice
-DTSTAMP:20260413T072647Z
-DTSTART;VALUE=DATE:20260415
-DESCRIPTION:\n        🍗 Main: Massaman curry with chicken and rice\n\n     
-	   🍜 Deli: Greek salad with beef-chicken chunks\, olives and feta\n\n     
-	   🥬 Vegetarian: Vegetable meatballs with kimchi and coleslaw\, sesame-min
-	t dressing\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hu
-	ngry DML 🤠\n        
+UID:4a-zEyz2NttmZyzm2aFxv
+SUMMARY:🍽️ Lunch: Panang curry with pork and noodles
+DTSTAMP:20260420T072750Z
+DTSTART;VALUE=DATE:20260420
+DESCRIPTION:\n        🍗 Main: Panang curry with pork and noodles\n\n       
+	 🍜 Deli: Rasta pasta with fried chicken and pesto\n\n        🥬 Vegetarian:
+	 Fried spring cabbage with cauliflower puree\, chives and hazelnuts\n\n   
+	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
+	   
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Q_fNZTZZm9vtTKIvSiqJz
-SUMMARY:🍽️ Lunch: Pulled pork open Open Faced Sandwiches
-DTSTAMP:20260413T072647Z
-DTSTART;VALUE=DATE:20260416
-DESCRIPTION:\n        🍗 Main: Pulled pork open Open Faced Sandwiches\n\n   
-	     🍜 Deli: onion pie with goat cheese\, olives and arugula\n\n        🥬 
-	Vegetarian: mushroom stroganoff with sweetpotato mash and pea shoots\n\n  
+UID:Rz09_XUUUnd53Wb7F_liC
+SUMMARY:🍽️ Lunch: Fishcake Asian style
+DTSTAMP:20260420T072750Z
+DTSTART;VALUE=DATE:20260421
+DESCRIPTION:\n        🍗 Main: Fishcake Asian style\n\n        🍜 Deli: Crisp
+	y Arancili on flatbread with sour dressing and salad\n\n        🥬 Vegetari
+	an: Pearl barley with baked Jerusalem artichokes and parsley frit\n\n     
+	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
+	 
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:0WR0rSHYaFfJRgQoia-88
+SUMMARY:🍽️ Lunch: Wienerschnitzel with potatoes\, gravy and peas
+DTSTAMP:20260420T072750Z
+DTSTART;VALUE=DATE:20260422
+DESCRIPTION:\n        🍗 Main: Wienerschnitzel with potatoes\, gravy and pea
+	s\n\n        🍜 Deli: Poke bowl with chicken and fresh vegetables\n\n      
+	  🥬 Vegetarian: Creamy tomato soup with beluga lentils and green oil\n\n  
 	      Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n    
 	    
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:g_XcdiAdtDQkhYMgJcOiY
-SUMMARY:🍽️ Lunch: Bangers and mash (medicinal sausage)
-DTSTAMP:20260413T072647Z
-DTSTART;VALUE=DATE:20260414
-DESCRIPTION:\n        🍗 Main: Bangers and mash (medicinal sausage)\n\n     
-	   🍜 Deli: Flexitarian open-faced Open Faced Sandwiches chickpea-oyster ha
-	t salad (Ala chicken salad French len\n\n        🥬 Vegetarian: Yorkshire p
-	udding with mushrooms\n\n        Buon appetito! 😋\n\n\n\n        Brought t
-	o you by hungry DML 🤠\n        
+UID:y7pe5hjWJANoNqoLkMnAj
+SUMMARY:🍽️ Lunch: Pasta Fusrelli with turkey and basil
+DTSTAMP:20260420T072750Z
+DTSTART;VALUE=DATE:20260423
+DESCRIPTION:\n        🍗 Main: Pasta Fusrelli with turkey and basil\n\n     
+	   🍜 Deli: Crispy sausage mix with potatoes\, sour cream and parsley\n\n  
+	      🥬 Vegetarian: Tagliatelle in vegan cream sauce and fried zucchini\n\
+	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
+	       
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:5p1v8rvnGXwZWceUCvlRQ
-SUMMARY:🍽️ Lunch: Pork leg with BBQ\, fried potatoes and coleslaw
-DTSTAMP:20260413T072647Z
-DTSTART;VALUE=DATE:20260413
-DESCRIPTION:\n        🍗 Main: Pork leg with BBQ\, fried potatoes and colesl
-	aw\n\n        🍜 Deli: Greek flatbread with chicken salad and crispy lettuc
-	e\n\n        🥬 Vegetarian: Veggi Tortilla with tomato-pineapple salsa and 
-	sour cream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hu
+UID:mqxM6jh41g7jgGQ4xjpxs
+SUMMARY:🍽️ Lunch: Butter chicken with basmati rice
+DTSTAMP:20260420T072750Z
+DTSTART;VALUE=DATE:20260424
+DESCRIPTION:\n        🍗 Main: Butter chicken with basmati rice\n\n        🍜
+	 Deli: Thai salad with wakami seaweed\, noodles and mango served with goma
+	 dressing\n\n        🥬 Vegetarian: Bean cassoulet with curry\, coriander a
+	nd coconut\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hu
 	ngry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:9Lq24VvLL_qarmZzToKZv
-SUMMARY:🍽️ Lunch: Chicken Alfredo with pasta
-DTSTAMP:20260413T072647Z
-DTSTART;VALUE=DATE:20260417
-DESCRIPTION:\n        🍗 Main: Chicken Alfredo with pasta\n\n        🍜 Deli:
-	 stuffed portobello\, red lentil puree and herb paradise\n\n        🥬 Vege
-	tarian: falafel with garlic dressing\n\n        Buon appetito! 😋\n\n\n\n  
-	      Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
