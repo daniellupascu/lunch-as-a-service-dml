@@ -5,62 +5,64 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:AaNeJ_kA17mQpVdwkRMBC
-SUMMARY:🍽️ Lunch: Chicken thigh with ratatouille and focaccia bread
-DTSTAMP:20260427T075347Z
-DTSTART;VALUE=DATE:20260427
-DESCRIPTION:\n        🍗 Main: Chicken thigh with ratatouille and focaccia b
-	read\n\n        🍜 Deli: Street style: Pulled pork Wrap or chicken kebab pi
-	zza Tomato cucumber salad with Citrus cream\n\n        🥬 Vegetarian: Potat
-	o-Leek Soup and Garlic Croutons\n\n        Buon appetito! 😋\n\n\n\n       
-	 Brought to you by hungry DML 🤠\n        
+UID:tQiqEfA8OOOy-wACnmMuq
+SUMMARY:🍽️ Lunch: Chicken shawarma on flatbread\, tahini dressing and tomato
+	 salad
+DTSTAMP:20260504T080533Z
+DTSTART;VALUE=DATE:20260506
+DESCRIPTION:\n        🍗 Main: Chicken shawarma on flatbread\, tahini dressi
+	ng and tomato salad\n\n        🍜 Deli: Bagel with smoked salmon\, cream ch
+	eese and arugula\n\n        🥬 Vegetarian: Bibimbap with kimchi\, rice and 
+	tofu\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry D
+	ML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:EINT6kVnxvhFjQ8g109lP
-SUMMARY:🍽️ Lunch: Roast ham with creamed potatoes and spinach
-DTSTAMP:20260427T075347Z
-DTSTART;VALUE=DATE:20260428
-DESCRIPTION:\n        🍗 Main: Roast ham with creamed potatoes and spinach\n
-	\n        🍜 Deli: Fishcake with remoulade\, lemon and dill\n\n        🥬 Ve
-	getarian: Spizy Pasta veggie bolognese with basil and oregano\n\n        B
-	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:7oA0tN-vn9YQa4fA3Bc2N
+SUMMARY:🍽️ Lunch: Deep fried Fish with bayou dip and fried potatoes
+DTSTAMP:20260504T080533Z
+DTSTART;VALUE=DATE:20260507
+DESCRIPTION:\n        🍗 Main: Deep fried Fish with bayou dip and fried pota
+	toes\n\n        🍜 Deli: open Open Faced Sandwicheses with egg and shrimp\n
+	\n        🥬 Vegetarian: Chilean Hotdog\n\n        Buon appetito! 😋\n\n\n\n
+	        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:RzfNgT-Y1v8YeicwA2qe0
-SUMMARY:🍽️ Lunch: Chili con carne with tortilla chips and sour cream
-DTSTAMP:20260427T075347Z
-DTSTART;VALUE=DATE:20260429
-DESCRIPTION:\n        🍗 Main: Chili con carne with tortilla chips and sour 
-	cream\n\n        🍜 Deli: Tortillia pie with potatoes and tomato. Served wi
-	th crunchy bacon.\n\n        🥬 Vegetarian: Vegan Burger with Lentil chimmi
-	churry\, avocado cream and potatoes\n\n        Buon appetito! 😋\n\n\n\n   
-	     Brought to you by hungry DML 🤠\n        
+UID:0VjYK9u4ym0f1he0Jh9xM
+SUMMARY:🍽️ Lunch: Roast pork Open Faced Sandwiches with red cabbage and must
+	ard dressing
+DTSTAMP:20260504T080533Z
+DTSTART;VALUE=DATE:20260508
+DESCRIPTION:\n        🍗 Main: Roast pork Open Faced Sandwiches with red cab
+	bage and mustard dressing\n\n        🍜 Deli: Mushroom toast with crispy ba
+	con\n\n        🥬 Vegetarian: vegetable lasagna with spinach and ricotta\n\
+	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
+	       
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Gwv-Odepw9F9JQ6PVi1ef
-SUMMARY:🍽️ Lunch: Turkey Bohho with Basmati rice and herbs
-DTSTAMP:20260427T075347Z
-DTSTART;VALUE=DATE:20260430
-DESCRIPTION:\n        🍗 Main: Turkey Bohho with Basmati rice and herbs\n\n 
-	       🍜 Deli: Chicken skewers with satay sauce and rice\n\n        🥬 Vege
-	tarian: Lady & Vagabond vegetarian style\n\n        Buon appetito! 😋\n\n\n
-	\n        Brought to you by hungry DML 🤠\n        
+UID:2tfGS90PwUGl4gpgomn39
+SUMMARY:🍽️ Lunch: Lamb/chicken khorma made with chickpeas and spinach served
+	 with couscous and frisee salad
+DTSTAMP:20260504T080533Z
+DTSTART;VALUE=DATE:20260504
+DESCRIPTION:\n        🍗 Main: Lamb/chicken khorma made with chickpeas and s
+	pinach served with couscous and frisee salad\n\n        🍜 Deli: Chicken me
+	atballs with potato salad\n\n        🥬 Vegetarian: Mexican hotpot tortilla
+	 and pico de gallo\n\n        Buon appetito! 😋\n\n\n\n        Brought to y
+	ou by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:48GCkVu0Euv4xqOLgcCdh
-SUMMARY:🍽️ Lunch: Turkey steak with ramson pesto\, potatoes and broccoli-bea
-	n salad
-DTSTAMP:20260427T075347Z
-DTSTART;VALUE=DATE:20260501
-DESCRIPTION:\n        🍗 Main: Turkey steak with ramson pesto\, potatoes and
-	 broccoli-bean salad\n\n        🍜 Deli: Warm Open Faced Sandwiches - Ham &
-	 Cheese\n\n        🥬 Vegetarian: No Fish & Chips with Tartar sauce\n\n    
-	    Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n      
-	  
+UID:xcSZNLP9RpkA5GxaQjdg2
+SUMMARY:🍽️ Lunch: Curry buns with rice
+DTSTAMP:20260504T080533Z
+DTSTART;VALUE=DATE:20260505
+DESCRIPTION:\n        🍗 Main: Curry buns with rice\n\n        🍜 Deli: pokeb
+	owl with stir-fried chicken\n\n        🥬 Vegetarian: Japanese Miso soup wi
+	th noodles and crispy vegetables\n\n        Buon appetito! 😋\n\n\n\n      
+	  Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
