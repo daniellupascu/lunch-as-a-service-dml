@@ -5,64 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:tQiqEfA8OOOy-wACnmMuq
-SUMMARY:🍽️ Lunch: Chicken shawarma on flatbread\, tahini dressing and tomato
-	 salad
-DTSTAMP:20260504T080533Z
-DTSTART;VALUE=DATE:20260506
-DESCRIPTION:\n        🍗 Main: Chicken shawarma on flatbread\, tahini dressi
-	ng and tomato salad\n\n        🍜 Deli: Bagel with smoked salmon\, cream ch
-	eese and arugula\n\n        🥬 Vegetarian: Bibimbap with kimchi\, rice and 
-	tofu\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry D
-	ML 🤠\n        
+UID:phFbV4o5Ce2Wc2nO01RFn
+SUMMARY:🍽️ Lunch: 
+DTSTAMP:20260511T084145Z
+DTSTART;VALUE=DATE:20260514
+DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: \n\n        🥬 Vegetarian:
+	 Closed\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungr
+	y DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:7oA0tN-vn9YQa4fA3Bc2N
-SUMMARY:🍽️ Lunch: Deep fried Fish with bayou dip and fried potatoes
-DTSTAMP:20260504T080533Z
-DTSTART;VALUE=DATE:20260507
-DESCRIPTION:\n        🍗 Main: Deep fried Fish with bayou dip and fried pota
-	toes\n\n        🍜 Deli: open Open Faced Sandwicheses with egg and shrimp\n
-	\n        🥬 Vegetarian: Chilean Hotdog\n\n        Buon appetito! 😋\n\n\n\n
-	        Brought to you by hungry DML 🤠\n        
+UID:-pSLKAUVI_qIQOBjhYQ4e
+SUMMARY:🍽️ Lunch: Chef's choice of the day
+DTSTAMP:20260511T084145Z
+DTSTART;VALUE=DATE:20260515
+DESCRIPTION:\n        🍗 Main: Chef's choice of the day\n\n        🍜 Deli: C
+	hef's choice of the day\n\n        🥬 Vegetarian: Chef's choice of the day\
+	n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\
+	n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:0VjYK9u4ym0f1he0Jh9xM
-SUMMARY:🍽️ Lunch: Roast pork Open Faced Sandwiches with red cabbage and must
-	ard dressing
-DTSTAMP:20260504T080533Z
-DTSTART;VALUE=DATE:20260508
-DESCRIPTION:\n        🍗 Main: Roast pork Open Faced Sandwiches with red cab
-	bage and mustard dressing\n\n        🍜 Deli: Mushroom toast with crispy ba
-	con\n\n        🥬 Vegetarian: vegetable lasagna with spinach and ricotta\n\
-	n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n 
-	       
+UID:j0Qx_0vjyWwhmX8-CwSMp
+SUMMARY:🍽️ Lunch: SLOPPY JEFF (burger with turkey and chips)
+DTSTAMP:20260511T084145Z
+DTSTART;VALUE=DATE:20260512
+DESCRIPTION:\n        🍗 Main: SLOPPY JEFF (burger with turkey and chips)\n\
+	n        🍜 Deli: Club Open Faced Sandwiches with curry mayo\, chicken and 
+	bacon\n\n        🥬 Vegetarian: Potato Røsti with fried mushrooms and crème
+	 fraiche\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
+	ry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:2tfGS90PwUGl4gpgomn39
-SUMMARY:🍽️ Lunch: Lamb/chicken khorma made with chickpeas and spinach served
-	 with couscous and frisee salad
-DTSTAMP:20260504T080533Z
-DTSTART;VALUE=DATE:20260504
-DESCRIPTION:\n        🍗 Main: Lamb/chicken khorma made with chickpeas and s
-	pinach served with couscous and frisee salad\n\n        🍜 Deli: Chicken me
-	atballs with potato salad\n\n        🥬 Vegetarian: Mexican hotpot tortilla
-	 and pico de gallo\n\n        Buon appetito! 😋\n\n\n\n        Brought to y
-	ou by hungry DML 🤠\n        
+UID:okrIkyeHV3ZA_Cv2Vxys6
+SUMMARY:🍽️ Lunch: Million steak with mashed potatoes
+DTSTAMP:20260511T084145Z
+DTSTART;VALUE=DATE:20260513
+DESCRIPTION:\n        🍗 Main: Million steak with mashed potatoes\n\n       
+	 🍜 Deli: Leek-Bacon pie with salad and dressing\n\n        🥬 Vegetarian: K
+	aase Spatzle (Austrian pasta dish) with fried onions\n\n        Buon appet
+	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:xcSZNLP9RpkA5GxaQjdg2
-SUMMARY:🍽️ Lunch: Curry buns with rice
-DTSTAMP:20260504T080533Z
-DTSTART;VALUE=DATE:20260505
-DESCRIPTION:\n        🍗 Main: Curry buns with rice\n\n        🍜 Deli: pokeb
-	owl with stir-fried chicken\n\n        🥬 Vegetarian: Japanese Miso soup wi
-	th noodles and crispy vegetables\n\n        Buon appetito! 😋\n\n\n\n      
-	  Brought to you by hungry DML 🤠\n        
+UID:7M36FqJEJfeApIxcCq_uE
+SUMMARY:🍽️ Lunch: Chicken ala orange with rice
+DTSTAMP:20260511T084145Z
+DTSTART;VALUE=DATE:20260511
+DESCRIPTION:\n        🍗 Main: Chicken ala orange with rice\n\n        🍜 Del
+	i: Beetroot soup with beetroot and fried eggs\n\n        🥬 Vegetarian: Fre
+	nch Lentil Stew with Root Vegetables and Chopped Herbs\n\n        Buon app
+	etito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
