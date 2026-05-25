@@ -5,60 +5,60 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:jlgjVX1JExXOVTpXJjhkO
-SUMMARY:🍽️ Lunch: Chicken hotdog with garnish
-DTSTAMP:20260518T085637Z
-DTSTART;VALUE=DATE:20260519
-DESCRIPTION:\n        🍗 Main: Chicken hotdog with garnish\n\n        🍜 Deli
-	: Pasta salad with chicken\, peppers and tomatoes\n\n        🥬 Vegetarian:
-	 Palak paneer with spinach and fresh cheese\n\n        Buon appetito! 😋\n\
-	n\n\n        Brought to you by hungry DML 🤠\n        
+UID:1bpO-BRBJug_cH1MJhE-L
+SUMMARY:🍽️ Lunch: 
+DTSTAMP:20260525T091055Z
+DTSTART;VALUE=DATE:20260525
+DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: Pentecost closed\n\n     
+	   🥬 Vegetarian: Pentecost closed\n\n        Buon appetito! 😋\n\n\n\n     
+	   Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:hyK0eSvO2R72iPyLlpzcY
-SUMMARY:🍽️ Lunch: Massaman curry with pork and noodles
-DTSTAMP:20260518T085637Z
-DTSTART;VALUE=DATE:20260520
-DESCRIPTION:\n        🍗 Main: Massaman curry with pork and noodles\n\n     
-	   🍜 Deli: Kris's Spicy Tuna with jalapenos and arugula\n\n        🥬 Veget
-	arian: Teriyaki VEGGI with pimento\, zucchini and carrots. Served with jas
-	mine rice\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hun
-	gry DML 🤠\n        
+UID:1JeklKoOhe3fNYq9MdTru
+SUMMARY:🍽️ Lunch: Chicken meatball Open Faced Sandwiches with red cabbage an
+	d sauerkraut
+DTSTAMP:20260525T091055Z
+DTSTART;VALUE=DATE:20260526
+DESCRIPTION:\n        🍗 Main: Chicken meatball Open Faced Sandwiches with r
+	ed cabbage and sauerkraut\n\n        🍜 Deli: poke bowl with meatballs and 
+	teriyaki\n\n        🥬 Vegetarian: Baked potato with avocado\, pickled red 
+	onion and chives\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
+	 by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:qGJ6WaevNspkSMbEdFEsZ
-SUMMARY:🍽️ Lunch: Grilled white fish with pasta and lemon sauce
-DTSTAMP:20260518T085637Z
-DTSTART;VALUE=DATE:20260521
-DESCRIPTION:\n        🍗 Main: Grilled white fish with pasta and lemon sauce
-	\n\n        🍜 Deli: Potato dish & Chicken salad on rye bread\n\n        🥬 
-	Vegetarian: Aloo Gobi with potatoes and cauliflower\n\n        Buon appeti
-	to! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:6Li5lnkgnrsshaqjEp6SB
+SUMMARY:🍽️ Lunch: Braised beef sirloin with fried potatoes and broccoli
+DTSTAMP:20260525T091055Z
+DTSTART;VALUE=DATE:20260527
+DESCRIPTION:\n        🍗 Main: Braised beef sirloin with fried potatoes and 
+	broccoli\n\n        🍜 Deli: Warm liver pâté with mushrooms and bacon\n\n  
+	      🥬 Vegetarian: Spanish tortilla with potato and tomato\n\n        Buo
+	n appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:AdwGI3800QvGE9EReppeZ
-SUMMARY:🍽️ Lunch: Chicken tikka masala
-DTSTAMP:20260518T085637Z
-DTSTART;VALUE=DATE:20260522
-DESCRIPTION:\n        🍗 Main: Chicken tikka masala\n\n        🍜 Deli: Spina
-	ch souffle with creamy-tomato spinach salad\n\n        🥬 Vegetarian: Quesa
-	dillos\, Chipolte mayo & Mexican salad\n\n        Buon appetito! 😋\n\n\n\n
-	        Brought to you by hungry DML 🤠\n        
+UID:YatmstKyMAK6E7pgN9gGS
+SUMMARY:🍽️ Lunch: Turkey popcorn with mango and glass noodles
+DTSTAMP:20260525T091055Z
+DTSTART;VALUE=DATE:20260528
+DESCRIPTION:\n        🍗 Main: Turkey popcorn with mango and glass noodles\n
+	\n        🍜 Deli: Tortilla wrap with pulled pork shank\n\n        🥬 Vegeta
+	rian: Minestrone soup with soup horns and vegetables\n\n        Buon appet
+	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:2_Ew0Je22uYzjwthx3aWA
-SUMMARY:🍽️ Lunch: Grilled pork knuckle with coleslaw and baked potato
-DTSTAMP:20260518T085637Z
-DTSTART;VALUE=DATE:20260518
-DESCRIPTION:\n        🍗 Main: Grilled pork knuckle with coleslaw and baked 
-	potato\n\n        🍜 Deli: pokebowl with crispy turkey and Piquillio aioli\
-	n\n        🥬 Vegetarian: Fusrelli Pesto with grilled zucchini and bell pep
-	pers\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry D
-	ML 🤠\n        
+UID:wBQb0HVUCcPS7_PDe3sq4
+SUMMARY:🍽️ Lunch: Pork Vindarloo with Rice and Coconut
+DTSTAMP:20260525T091055Z
+DTSTART;VALUE=DATE:20260529
+DESCRIPTION:\n        🍗 Main: Pork Vindarloo with Rice and Coconut\n\n     
+	   🍜 Deli: Sushi with smoked salmon\, nori seaweed and cream cheese served
+	 with edemam seaweed salad\n\n        🥬 Vegetarian: Pasta Alfredo\n\n     
+	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
+	 
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
