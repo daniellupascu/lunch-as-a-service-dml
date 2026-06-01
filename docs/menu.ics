@@ -5,60 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:1bpO-BRBJug_cH1MJhE-L
-SUMMARY:🍽️ Lunch: 
-DTSTAMP:20260525T091055Z
-DTSTART;VALUE=DATE:20260525
-DESCRIPTION:\n        🍗 Main: \n\n        🍜 Deli: Pentecost closed\n\n     
-	   🥬 Vegetarian: Pentecost closed\n\n        Buon appetito! 😋\n\n\n\n     
-	   Brought to you by hungry DML 🤠\n        
+UID:oqV3WHKiSDQgluB7x1ucZ
+SUMMARY:🍽️ Lunch: Moroccan meatballs with couscous
+DTSTAMP:20260601T103806Z
+DTSTART;VALUE=DATE:20260605
+DESCRIPTION:\n        🍗 Main: Moroccan meatballs with couscous\n\n        🍜
+	 Deli: Hot dog with fried potatoes\n\n        🥬 Vegetarian: pizza with pot
+	ato and ricotta\n\n        Buon appetito! 😋\n\n\n\n        Brought to you 
+	by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:1JeklKoOhe3fNYq9MdTru
-SUMMARY:🍽️ Lunch: Chicken meatball Open Faced Sandwiches with red cabbage an
-	d sauerkraut
-DTSTAMP:20260525T091055Z
-DTSTART;VALUE=DATE:20260526
-DESCRIPTION:\n        🍗 Main: Chicken meatball Open Faced Sandwiches with r
-	ed cabbage and sauerkraut\n\n        🍜 Deli: poke bowl with meatballs and 
-	teriyaki\n\n        🥬 Vegetarian: Baked potato with avocado\, pickled red 
-	onion and chives\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
-	 by hungry DML 🤠\n        
+UID:qoV7BxebqWlNK71QYgXS3
+SUMMARY:🍽️ Lunch: Pork chop with white potatoes\, peas and carrots
+DTSTAMP:20260601T103806Z
+DTSTART;VALUE=DATE:20260602
+DESCRIPTION:\n        🍗 Main: Pork chop with white potatoes\, peas and carr
+	ots\n\n        🍜 Deli: Asian salad with chicken\n\n        🥬 Vegetarian: P
+	asta Arabbiata\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
+	y hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:6Li5lnkgnrsshaqjEp6SB
-SUMMARY:🍽️ Lunch: Braised beef sirloin with fried potatoes and broccoli
-DTSTAMP:20260525T091055Z
-DTSTART;VALUE=DATE:20260527
-DESCRIPTION:\n        🍗 Main: Braised beef sirloin with fried potatoes and 
-	broccoli\n\n        🍜 Deli: Warm liver pâté with mushrooms and bacon\n\n  
-	      🥬 Vegetarian: Spanish tortilla with potato and tomato\n\n        Buo
-	n appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:WSrA_stK9xovgMO2ew3XU
+SUMMARY:🍽️ Lunch: Stuffed peppers with beef and vegetables\, served with pap
+	rika dressing
+DTSTAMP:20260601T103806Z
+DTSTART;VALUE=DATE:20260603
+DESCRIPTION:\n        🍗 Main: Stuffed peppers with beef and vegetables\, se
+	rved with paprika dressing\n\n        🍜 Deli: Salad Nicoise\n\n        🥬 V
+	egetarian: Beetroot steaks with salad\n\n        Buon appetito! 😋\n\n\n\n 
+	       Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:YatmstKyMAK6E7pgN9gGS
-SUMMARY:🍽️ Lunch: Turkey popcorn with mango and glass noodles
-DTSTAMP:20260525T091055Z
-DTSTART;VALUE=DATE:20260528
-DESCRIPTION:\n        🍗 Main: Turkey popcorn with mango and glass noodles\n
-	\n        🍜 Deli: Tortilla wrap with pulled pork shank\n\n        🥬 Vegeta
-	rian: Minestrone soup with soup horns and vegetables\n\n        Buon appet
-	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:X2U7ES4MWmXH2-xO6L8Zu
+SUMMARY:🍽️ Lunch: Chicken pie with spinach salad
+DTSTAMP:20260601T103806Z
+DTSTART;VALUE=DATE:20260604
+DESCRIPTION:\n        🍗 Main: Chicken pie with spinach salad\n\n        🍜 D
+	eli: fried fish fillet with accompaniments\n\n        🥬 Vegetarian: Thai w
+	ok with nuts and broccoli\n\n        Buon appetito! 😋\n\n\n\n        Broug
+	ht to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:wBQb0HVUCcPS7_PDe3sq4
-SUMMARY:🍽️ Lunch: Pork Vindarloo with Rice and Coconut
-DTSTAMP:20260525T091055Z
-DTSTART;VALUE=DATE:20260529
-DESCRIPTION:\n        🍗 Main: Pork Vindarloo with Rice and Coconut\n\n     
-	   🍜 Deli: Sushi with smoked salmon\, nori seaweed and cream cheese served
-	 with edemam seaweed salad\n\n        🥬 Vegetarian: Pasta Alfredo\n\n     
-	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
-	 
+UID:8nRQyGQJVYMrFHOt4rd3C
+SUMMARY:🍽️ Lunch: Spaghetti Bolognese
+DTSTAMP:20260601T103806Z
+DTSTART;VALUE=DATE:20260601
+DESCRIPTION:\n        🍗 Main: Spaghetti Bolognese\n\n        🍜 Deli: Poke b
+	owl with pulled pork and noodles\n\n        🥬 Vegetarian: Risotto with asp
+	aragus and peas\n\n        Buon appetito! 😋\n\n\n\n        Brought to you 
+	by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
