@@ -5,59 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:oqV3WHKiSDQgluB7x1ucZ
-SUMMARY:🍽️ Lunch: Moroccan meatballs with couscous
-DTSTAMP:20260601T103806Z
-DTSTART;VALUE=DATE:20260605
-DESCRIPTION:\n        🍗 Main: Moroccan meatballs with couscous\n\n        🍜
-	 Deli: Hot dog with fried potatoes\n\n        🥬 Vegetarian: pizza with pot
-	ato and ricotta\n\n        Buon appetito! 😋\n\n\n\n        Brought to you 
-	by hungry DML 🤠\n        
+UID:pAwxBxz0B9q1Lg0A6pNgC
+SUMMARY:🍽️ Lunch: Pasta carbonada with bacon and parsley
+DTSTAMP:20260608T100432Z
+DTSTART;VALUE=DATE:20260609
+DESCRIPTION:\n        🍗 Main: Pasta carbonada with bacon and parsley\n\n   
+	     🍜 Deli: Open Faced Sandwiches with summer salad (chicken salad)\n\n  
+	      🥬 Vegetarian: Chickpea curry stew with basmati rice\n\n        Buon 
+	appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:qoV7BxebqWlNK71QYgXS3
-SUMMARY:🍽️ Lunch: Pork chop with white potatoes\, peas and carrots
-DTSTAMP:20260601T103806Z
-DTSTART;VALUE=DATE:20260602
-DESCRIPTION:\n        🍗 Main: Pork chop with white potatoes\, peas and carr
-	ots\n\n        🍜 Deli: Asian salad with chicken\n\n        🥬 Vegetarian: P
-	asta Arabbiata\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
-	y hungry DML 🤠\n        
+UID:7PC25NYfyyyXgXq1l-RZP
+SUMMARY:🍽️ Lunch: Minced meatballs with brown sauce\, spring onions\, cucumb
+	er salad and potatoes
+DTSTAMP:20260608T100432Z
+DTSTART;VALUE=DATE:20260610
+DESCRIPTION:\n        🍗 Main: Minced meatballs with brown sauce\, spring on
+	ions\, cucumber salad and potatoes\n\n        🍜 Deli: onion-broccoli pie w
+	ith French salad\n\n        🥬 Vegetarian: Braised Pak choy with fried glas
+	s noodles and shitake mushrooms\n\n        Buon appetito! 😋\n\n\n\n       
+	 Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:WSrA_stK9xovgMO2ew3XU
-SUMMARY:🍽️ Lunch: Stuffed peppers with beef and vegetables\, served with pap
-	rika dressing
-DTSTAMP:20260601T103806Z
-DTSTART;VALUE=DATE:20260603
-DESCRIPTION:\n        🍗 Main: Stuffed peppers with beef and vegetables\, se
-	rved with paprika dressing\n\n        🍜 Deli: Salad Nicoise\n\n        🥬 V
-	egetarian: Beetroot steaks with salad\n\n        Buon appetito! 😋\n\n\n\n 
-	       Brought to you by hungry DML 🤠\n        
+UID:6-wzH9nBpTfgstCj81OSq
+SUMMARY:🍽️ Lunch: Danish Chicken in curry with side dishes
+DTSTAMP:20260608T100432Z
+DTSTART;VALUE=DATE:20260611
+DESCRIPTION:\n        🍗 Main: Danish Chicken in curry with side dishes\n\n 
+	       🍜 Deli: Open Faced Sandwiches with Roast Beef and Potato Salad\n\n 
+	       🥬 Vegetarian: Vegetarian meatballs with potato salad\n\n        Buo
+	n appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:X2U7ES4MWmXH2-xO6L8Zu
-SUMMARY:🍽️ Lunch: Chicken pie with spinach salad
-DTSTAMP:20260601T103806Z
-DTSTART;VALUE=DATE:20260604
-DESCRIPTION:\n        🍗 Main: Chicken pie with spinach salad\n\n        🍜 D
-	eli: fried fish fillet with accompaniments\n\n        🥬 Vegetarian: Thai w
-	ok with nuts and broccoli\n\n        Buon appetito! 😋\n\n\n\n        Broug
-	ht to you by hungry DML 🤠\n        
+UID:sIiYwu6Y7TI1ZKDpir6FL
+SUMMARY:🍽️ Lunch: Bonne femme. Catfish with spinach\, bechamel and white pot
+	atoes
+DTSTAMP:20260608T100432Z
+DTSTART;VALUE=DATE:20260612
+DESCRIPTION:\n        🍗 Main: Bonne femme. Catfish with spinach\, bechamel 
+	and white potatoes\n\n        🍜 Deli: Chinese salad with beef\, lettuce\, 
+	chili and lime sauce\n\n        🥬 Vegetarian: burrito with fried vegetable
+	s and Halumi\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
+	hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:8nRQyGQJVYMrFHOt4rd3C
-SUMMARY:🍽️ Lunch: Spaghetti Bolognese
-DTSTAMP:20260601T103806Z
-DTSTART;VALUE=DATE:20260601
-DESCRIPTION:\n        🍗 Main: Spaghetti Bolognese\n\n        🍜 Deli: Poke b
-	owl with pulled pork and noodles\n\n        🥬 Vegetarian: Risotto with asp
-	aragus and peas\n\n        Buon appetito! 😋\n\n\n\n        Brought to you 
-	by hungry DML 🤠\n        
+UID:sZtXlFqhV6WHP4WbyMgWK
+SUMMARY:🍽️ Lunch: Pad krapow with Chicken and rice
+DTSTAMP:20260608T100432Z
+DTSTART;VALUE=DATE:20260608
+DESCRIPTION:\n        🍗 Main: Pad krapow with Chicken and rice\n\n        🍜
+	 Deli: Pokebowl with crispy pork\, cabbage and paprika dressing\n\n       
+	 🥬 Vegetarian: Tofu with noodles and spicy peanut butter sauce\n\n        
+	Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
