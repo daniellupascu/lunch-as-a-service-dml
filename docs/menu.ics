@@ -5,58 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:d9xno9EC8ssa7usG0nC8c
-SUMMARY:🍽️ Lunch: pulled chicken shawarma on flatbread with side dishes
-DTSTAMP:20260615T112911Z
-DTSTART;VALUE=DATE:20260617
-DESCRIPTION:\n        🍗 Main: pulled chicken shawarma on flatbread with sid
-	e dishes\n\n        🍜 Deli: Asian noodles with turkey\n\n        🥬 Vegetar
-	ian: Tagliatelle Limone with parmesan\, peas and arugula\n\n        Buon a
-	ppetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:8yhVinCUObz-vn8jvChgm
+SUMMARY:🍽️ Lunch: Butter chicken with holy rice
+DTSTAMP:20260622T111348Z
+DTSTART;VALUE=DATE:20260622
+DESCRIPTION:\n        🍗 Main: Butter chicken with holy rice\n\n        🍜 De
+	li: \n\n        🥬 Vegetarian: Carrot pate with grilled cabbage and herb sa
+	lad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DM
+	L 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:TQce0P9nwReaZZF0YifEK
-SUMMARY:🍽️ Lunch: Beef in creamy sauce with pasta conquilio
-DTSTAMP:20260615T112911Z
-DTSTART;VALUE=DATE:20260616
-DESCRIPTION:\n        🍗 Main: Beef in creamy sauce with pasta conquilio\n\n
-	        🍜 Deli: Toasted bread with salmon mousse\, cucumber and radishes\n
-	\n        🥬 Vegetarian: Asparagus Mousseline\n\n        Buon appetito! 😋\n
-	\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:wK3oy9KyoPd6bylSVEa66
+SUMMARY:🍽️ Lunch: Creamy pasta with turkey chorizo and grilled zucchini
+DTSTAMP:20260622T111348Z
+DTSTART;VALUE=DATE:20260623
+DESCRIPTION:\n        🍗 Main: Creamy pasta with turkey chorizo and grilled 
+	zucchini\n\n        🍜 Deli: Fish fillet with shrimp and dill mayonnaise\n\
+	n        🥬 Vegetarian: Andalusian Gaspazio\n\n        Buon appetito! 😋\n\n
+	\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Rkjc-95hAv9XWN76STK2v
-SUMMARY:🍽️ Lunch: African peanut stew with sweet potato and turkey
-DTSTAMP:20260615T112911Z
-DTSTART;VALUE=DATE:20260615
-DESCRIPTION:\n        🍗 Main: African peanut stew with sweet potato and tur
-	key\n\n        🍜 Deli: Caesar salad with chicken and bacon\n\n        🥬 Ve
-	getarian: Tomato pie with crispy salad and basil pesto\n\n        Buon app
-	etito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:8D_QIDB-NThtUMOBIVxyQ
+SUMMARY:🍽️ Lunch: Orange marinated pork loin with white potatoes and sauce
+DTSTAMP:20260622T111348Z
+DTSTART;VALUE=DATE:20260624
+DESCRIPTION:\n        🍗 Main: Orange marinated pork loin with white potatoe
+	s and sauce\n\n        🍜 Deli: Carpaccio with truffle oil\n\n        🥬 Veg
+	etarian: Lentil spread with radishes\, beetroot\, carrot and apples\n\n   
+	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
+	   
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FvQCdo9u29lbpBIyozKKW
-SUMMARY:🍽️ Lunch: Hawaii Theme ( pokebowl with salmon )
-DTSTAMP:20260615T112911Z
-DTSTART;VALUE=DATE:20260619
-DESCRIPTION:\n        🍗 Main: Hawaii Theme ( pokebowl with salmon )\n\n    
-	    🍜 Deli: Hawaiian Theme (pizza)\n\n        🥬 Vegetarian: Hawaiian Theme
-	 (salad bowl)\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
-	 hungry DML 🤠\n        
+UID:Lnq0bklSlQe9cq6no-rI3
+SUMMARY:🍽️ Lunch: Fish dishes with boat potatoes and remoulade
+DTSTAMP:20260622T111348Z
+DTSTART;VALUE=DATE:20260625
+DESCRIPTION:\n        🍗 Main: Fish dishes with boat potatoes and remoulade\
+	n\n        🍜 Deli: Cold cuts platter with accessories\n\n        🥬 Vegetar
+	ian: Toast stratiatella with tomato and asparagus\n\n        Buon appetito
+	! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:kzN2w64S3beqOWOyRrTFW
-SUMMARY:🍽️ Lunch: chicken lasagna with spinach
-DTSTAMP:20260615T112911Z
-DTSTART;VALUE=DATE:20260618
-DESCRIPTION:\n        🍗 Main: chicken lasagna with spinach\n\n        🍜 Del
-	i: 3 types of cold cuts with accessories\n\n        🥬 Vegetarian: Italian 
-	Bean Compote with Olives and Grilled Peppers\n\n        Buon appetito! 😋\n
-	\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:2ipQ7ERi_Lyvmi0PUHX5a
+SUMMARY:🍽️ Lunch: Beef Quesadilla with salsa and cheddar
+DTSTAMP:20260622T111348Z
+DTSTART;VALUE=DATE:20260626
+DESCRIPTION:\n        🍗 Main: Beef Quesadilla with salsa and cheddar\n\n   
+	     🍜 Deli: Burrito with pulled chicken\n\n        🥬 Vegetarian: Falafel 
+	with tomato salad and tahini dressing\n\n        Buon appetito! 😋\n\n\n\n 
+	       Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
