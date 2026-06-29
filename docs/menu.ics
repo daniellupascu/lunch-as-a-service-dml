@@ -5,59 +5,61 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8yhVinCUObz-vn8jvChgm
-SUMMARY:🍽️ Lunch: Butter chicken with holy rice
-DTSTAMP:20260622T111348Z
-DTSTART;VALUE=DATE:20260622
-DESCRIPTION:\n        🍗 Main: Butter chicken with holy rice\n\n        🍜 De
-	li: \n\n        🥬 Vegetarian: Carrot pate with grilled cabbage and herb sa
-	lad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DM
-	L 🤠\n        
+UID:we0GnbywOgr3Iywxm0gDz
+SUMMARY:🍽️ Lunch: Meatballs with brown sauce\, potatoes and red cabbage
+DTSTAMP:20260629T100821Z
+DTSTART;VALUE=DATE:20260630
+DESCRIPTION:\n        🍗 Main: Meatballs with brown sauce\, potatoes and red
+	 cabbage\n\n        🍜 Deli: Open Faced Sandwiches buffet with chicken sala
+	d and potato salad with avocado\n\n        🥬 Vegetarian: Burek with potato
+	es\, spinach and feta\n\n        Buon appetito! 😋\n\n\n\n        Brought t
+	o you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:wK3oy9KyoPd6bylSVEa66
-SUMMARY:🍽️ Lunch: Creamy pasta with turkey chorizo and grilled zucchini
-DTSTAMP:20260622T111348Z
-DTSTART;VALUE=DATE:20260623
-DESCRIPTION:\n        🍗 Main: Creamy pasta with turkey chorizo and grilled 
-	zucchini\n\n        🍜 Deli: Fish fillet with shrimp and dill mayonnaise\n\
-	n        🥬 Vegetarian: Andalusian Gaspazio\n\n        Buon appetito! 😋\n\n
+UID:vcHB5Bcm3Mcr9JSnpPrPY
+SUMMARY:🍽️ Lunch: Bacon-Leek Tart with French Frisee Salad
+DTSTAMP:20260629T100821Z
+DTSTART;VALUE=DATE:20260701
+DESCRIPTION:\n        🍗 Main: Bacon-Leek Tart with French Frisee Salad\n\n 
+	       🍜 Deli: Open Faced Sandwiches toast with ham and cheese\n\n        
+	🥬 Vegetarian: Compote with asparagus\, cauliflower\, smoked cheese\, beans
+	 and kale topped with crispy buckwheat and\n\n        Buon appetito! 😋\n\n
 	\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:8D_QIDB-NThtUMOBIVxyQ
-SUMMARY:🍽️ Lunch: Orange marinated pork loin with white potatoes and sauce
-DTSTAMP:20260622T111348Z
-DTSTART;VALUE=DATE:20260624
-DESCRIPTION:\n        🍗 Main: Orange marinated pork loin with white potatoe
-	s and sauce\n\n        🍜 Deli: Carpaccio with truffle oil\n\n        🥬 Veg
-	etarian: Lentil spread with radishes\, beetroot\, carrot and apples\n\n   
-	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
-	   
+UID:PNfkYklDsKtR4ShsMQ5dc
+SUMMARY:🍽️ Lunch: Sabzi with tender beef\, vegetables and yellow rice
+DTSTAMP:20260629T100821Z
+DTSTART;VALUE=DATE:20260702
+DESCRIPTION:\n        🍗 Main: Sabzi with tender beef\, vegetables and yello
+	w rice\n\n        🍜 Deli: Cold cuts platter with tuna salad and roast beef
+	 (Vitello tornato)\n\n        🥬 Vegetarian: Grilled eggplant Open Faced Sa
+	ndwiches with semi-dried tomato romesco and arugula\n\n        Buon appeti
+	to! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Lnq0bklSlQe9cq6no-rI3
-SUMMARY:🍽️ Lunch: Fish dishes with boat potatoes and remoulade
-DTSTAMP:20260622T111348Z
-DTSTART;VALUE=DATE:20260625
-DESCRIPTION:\n        🍗 Main: Fish dishes with boat potatoes and remoulade\
-	n\n        🍜 Deli: Cold cuts platter with accessories\n\n        🥬 Vegetar
-	ian: Toast stratiatella with tomato and asparagus\n\n        Buon appetito
-	! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:6jF7HDo7-itV9djT373eb
+SUMMARY:🍽️ Lunch: Crispy chicken burger with side dishes
+DTSTAMP:20260629T100821Z
+DTSTART;VALUE=DATE:20260703
+DESCRIPTION:\n        🍗 Main: Crispy chicken burger with side dishes\n\n   
+	     🍜 Deli: Spring rolls with Thai salad\n\n        🥬 Vegetarian: Veggi D
+	og with sweet potato fries\n\n        Buon appetito! 😋\n\n\n\n        Brou
+	ght to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:2ipQ7ERi_Lyvmi0PUHX5a
-SUMMARY:🍽️ Lunch: Beef Quesadilla with salsa and cheddar
-DTSTAMP:20260622T111348Z
-DTSTART;VALUE=DATE:20260626
-DESCRIPTION:\n        🍗 Main: Beef Quesadilla with salsa and cheddar\n\n   
-	     🍜 Deli: Burrito with pulled chicken\n\n        🥬 Vegetarian: Falafel 
-	with tomato salad and tahini dressing\n\n        Buon appetito! 😋\n\n\n\n 
-	       Brought to you by hungry DML 🤠\n        
+UID:o731vG-wPR23p_LH5_6Nh
+SUMMARY:🍽️ Lunch: Chicken sweet`N Sour with basmati rice
+DTSTAMP:20260629T100821Z
+DTSTART;VALUE=DATE:20260629
+DESCRIPTION:\n        🍗 Main: Chicken sweet`N Sour with basmati rice\n\n   
+	     🍜 Deli: Puff pastry onion pie with goat cheese and blueberry salad\n\
+	n        🥬 Vegetarian: Veggi Bolgnese with soy meat\n\n        Buon appeti
+	to! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
