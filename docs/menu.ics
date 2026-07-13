@@ -5,54 +5,57 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:BE7uErt7YhjnD0SEV7wCY
-SUMMARY:🍽️ Lunch: Pad Krapow with chicken served with basmati rice
-DTSTAMP:20260706T093510Z
-DTSTART;VALUE=DATE:20260706
-DESCRIPTION:\n        🍗 Main: Pad Krapow with chicken served with basmati r
-	ice\n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Pesto Past
-	a with cherry tomato\, mushrooms and basil\n\n        Buon appetito! 😋\n\n
-	\n\n        Brought to you by hungry DML 🤠\n        
+UID:PcXVcgpAg9LX5xVGNO815
+SUMMARY:🍽️ Lunch: Pizza day
+DTSTAMP:20260713T083219Z
+DTSTART;VALUE=DATE:20260717
+DESCRIPTION:\n        🍗 Main: Pizza day\n\n        🍜 Deli: Summer vacation\
+	n\n        🥬 Vegetarian: Pasta with asparagus\, lemon and parmesan\n\n    
+	    Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n      
+	  
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:nGnKe7AOczsG6D7fHqWsj
-SUMMARY:🍽️ Lunch: undefined
-DTSTAMP:20260706T093510Z
-DTSTART;VALUE=DATE:20260707
-DESCRIPTION:\n        🍗 Main: undefined\n\n        🍜 Deli: Summer vacation\
-	n\n        🥬 Vegetarian: undefined\n\n        Buon appetito! 😋\n\n\n\n    
-	    Brought to you by hungry DML 🤠\n        
+UID:t0CHPgmI-p6vZgQqu1Gd5
+SUMMARY:🍽️ Lunch: Chicken burritos with salsa
+DTSTAMP:20260713T083219Z
+DTSTART;VALUE=DATE:20260713
+DESCRIPTION:\n        🍗 Main: Chicken burritos with salsa\n\n        🍜 Deli
+	: \n\n        🥬 Vegetarian: Fried cabbage with hazelnuts and vinaigrette\n
+	\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n
+	        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:lSTUPwxKpEO29xaa7PThp
-SUMMARY:🍽️ Lunch: undefined
-DTSTAMP:20260706T093510Z
-DTSTART;VALUE=DATE:20260708
-DESCRIPTION:\n        🍗 Main: undefined\n\n        🍜 Deli: Summer vacation\
-	n\n        🥬 Vegetarian: undefined\n\n        Buon appetito! 😋\n\n\n\n    
-	    Brought to you by hungry DML 🤠\n        
+UID:xoqdukF182jQtQqQQY2Au
+SUMMARY:🍽️ Lunch: Pork roast with potatoes and brown gravy
+DTSTAMP:20260713T083219Z
+DTSTART;VALUE=DATE:20260714
+DESCRIPTION:\n        🍗 Main: Pork roast with potatoes and brown gravy\n\n 
+	       🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Vegetarian pad tha
+	i with tofu and vegetables\n\n        Buon appetito! 😋\n\n\n\n        Brou
+	ght to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:T3hgLouJ2WvFR60k3BJMz
-SUMMARY:🍽️ Lunch: undefined
-DTSTAMP:20260706T093510Z
-DTSTART;VALUE=DATE:20260709
-DESCRIPTION:\n        🍗 Main: undefined\n\n        🍜 Deli: Summer vacation\
-	n\n        🥬 Vegetarian: undefined\n\n        Buon appetito! 😋\n\n\n\n    
-	    Brought to you by hungry DML 🤠\n        
+UID:826RURpT47-I--3A_Etjg
+SUMMARY:🍽️ Lunch: Chicken tikka masala
+DTSTAMP:20260713T083219Z
+DTSTART;VALUE=DATE:20260715
+DESCRIPTION:\n        🍗 Main: Chicken tikka masala\n\n        🍜 Deli: \n\n 
+	       🥬 Vegetarian: Tomato soup\n\n        Buon appetito! 😋\n\n\n\n      
+	  Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FGDWNhByzaFFg1Tpc1cgN
-SUMMARY:🍽️ Lunch: undefined
-DTSTAMP:20260706T093510Z
-DTSTART;VALUE=DATE:20260710
-DESCRIPTION:\n        🍗 Main: undefined\n\n        🍜 Deli: \n\n        🥬 Ve
-	getarian: undefined\n\n        Buon appetito! 😋\n\n\n\n        Brought to 
-	you by hungry DML 🤠\n        
+UID:OrUewgiotvERLyO7H0dcu
+SUMMARY:🍽️ Lunch: Pasta carbonara with bacon and parmesan
+DTSTAMP:20260713T083219Z
+DTSTART;VALUE=DATE:20260716
+DESCRIPTION:\n        🍗 Main: Pasta carbonara with bacon and parmesan\n\n  
+	      🍜 Deli: \n\n        🥬 Vegetarian: Stuffed peppers with beans\, rice 
+	and corn\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
+	ry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
