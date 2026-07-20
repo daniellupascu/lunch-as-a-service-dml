@@ -5,57 +5,56 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PcXVcgpAg9LX5xVGNO815
-SUMMARY:🍽️ Lunch: Pizza day
-DTSTAMP:20260713T083219Z
-DTSTART;VALUE=DATE:20260717
-DESCRIPTION:\n        🍗 Main: Pizza day\n\n        🍜 Deli: Summer vacation\
-	n\n        🥬 Vegetarian: Pasta with asparagus\, lemon and parmesan\n\n    
-	    Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n      
-	  
+UID:KaRFXI7NCUF9L9BBFj_rj
+SUMMARY:🍽️ Lunch: Vietnamese Bo Kho with beef and rice
+DTSTAMP:20260720T082426Z
+DTSTART;VALUE=DATE:20260724
+DESCRIPTION:\n        🍗 Main: Vietnamese Bo Kho with beef and rice\n\n     
+	   🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Tacos\n\n        Buon 
+	appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:t0CHPgmI-p6vZgQqu1Gd5
-SUMMARY:🍽️ Lunch: Chicken burritos with salsa
-DTSTAMP:20260713T083219Z
-DTSTART;VALUE=DATE:20260713
-DESCRIPTION:\n        🍗 Main: Chicken burritos with salsa\n\n        🍜 Deli
-	: \n\n        🥬 Vegetarian: Fried cabbage with hazelnuts and vinaigrette\n
-	\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n
-	        
+UID:3sIuxlLCB-qLi3_rxzu-N
+SUMMARY:🍽️ Lunch: Beef Moussaka with tzatziki
+DTSTAMP:20260720T082426Z
+DTSTART;VALUE=DATE:20260720
+DESCRIPTION:\n        🍗 Main: Beef Moussaka with tzatziki\n\n        🍜 Deli
+	: Summer vacation\n\n        🥬 Vegetarian: Veg. Pad Thai with egg\, tofu\,
+	 pepper fruit and peanuts\n\n        Buon appetito! 😋\n\n\n\n        Broug
+	ht to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:xoqdukF182jQtQqQQY2Au
-SUMMARY:🍽️ Lunch: Pork roast with potatoes and brown gravy
-DTSTAMP:20260713T083219Z
-DTSTART;VALUE=DATE:20260714
-DESCRIPTION:\n        🍗 Main: Pork roast with potatoes and brown gravy\n\n 
-	       🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Vegetarian pad tha
-	i with tofu and vegetables\n\n        Buon appetito! 😋\n\n\n\n        Brou
-	ght to you by hungry DML 🤠\n        
+UID:tUnMGiD8zS5N1MPfpUjgi
+SUMMARY:🍽️ Lunch: Lasagna with chicken
+DTSTAMP:20260720T082426Z
+DTSTART;VALUE=DATE:20260723
+DESCRIPTION:\n        🍗 Main: Lasagna with chicken\n\n        🍜 Deli: Summe
+	r vacation\n\n        🥬 Vegetarian: Spanish Tortilla\n\n        Buon appet
+	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:826RURpT47-I--3A_Etjg
-SUMMARY:🍽️ Lunch: Chicken tikka masala
-DTSTAMP:20260713T083219Z
-DTSTART;VALUE=DATE:20260715
-DESCRIPTION:\n        🍗 Main: Chicken tikka masala\n\n        🍜 Deli: \n\n 
-	       🥬 Vegetarian: Tomato soup\n\n        Buon appetito! 😋\n\n\n\n      
-	  Brought to you by hungry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:OrUewgiotvERLyO7H0dcu
-SUMMARY:🍽️ Lunch: Pasta carbonara with bacon and parmesan
-DTSTAMP:20260713T083219Z
-DTSTART;VALUE=DATE:20260716
-DESCRIPTION:\n        🍗 Main: Pasta carbonara with bacon and parmesan\n\n  
-	      🍜 Deli: \n\n        🥬 Vegetarian: Stuffed peppers with beans\, rice 
-	and corn\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
+UID:8i9dwBL-W_RqEvWY_Kxlu
+SUMMARY:🍽️ Lunch: Open Banh mi Open Faced Sandwiches with slow-roasted pork
+DTSTAMP:20260720T082426Z
+DTSTART;VALUE=DATE:20260721
+DESCRIPTION:\n        🍗 Main: Open Banh mi Open Faced Sandwiches with slow-
+	roasted pork\n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: P
+	oke Bowl\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
 	ry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:_ZkhU5dWnnLS4fDAsTj4E
+SUMMARY:🍽️ Lunch: Fish cakes with fried potatoes and remoulade
+DTSTAMP:20260720T082426Z
+DTSTART;VALUE=DATE:20260722
+DESCRIPTION:\n        🍗 Main: Fish cakes with fried potatoes and remoulade\
+	n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Beetroot steak
+	s with salad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
+	hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
