@@ -5,56 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:KaRFXI7NCUF9L9BBFj_rj
-SUMMARY:🍽️ Lunch: Vietnamese Bo Kho with beef and rice
-DTSTAMP:20260720T082426Z
-DTSTART;VALUE=DATE:20260724
-DESCRIPTION:\n        🍗 Main: Vietnamese Bo Kho with beef and rice\n\n     
-	   🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Tacos\n\n        Buon 
-	appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:qr-fmSVUupGujBoQt23Zl
+SUMMARY:🍽️ Lunch: Thai glass noodle salad with pork\, celery\, tomato\, mint
+	 and lime
+DTSTAMP:20260727T085436Z
+DTSTART;VALUE=DATE:20260728
+DESCRIPTION:\n        🍗 Main: Thai glass noodle salad with pork\, celery\, 
+	tomato\, mint and lime\n\n        🍜 Deli: Summer vacation\n\n        🥬 Veg
+	etarian: Bulgur salad with feta\, olives and sun-dried tomatoes\n\n       
+	 Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:3sIuxlLCB-qLi3_rxzu-N
-SUMMARY:🍽️ Lunch: Beef Moussaka with tzatziki
-DTSTAMP:20260720T082426Z
-DTSTART;VALUE=DATE:20260720
-DESCRIPTION:\n        🍗 Main: Beef Moussaka with tzatziki\n\n        🍜 Deli
-	: Summer vacation\n\n        🥬 Vegetarian: Veg. Pad Thai with egg\, tofu\,
-	 pepper fruit and peanuts\n\n        Buon appetito! 😋\n\n\n\n        Broug
-	ht to you by hungry DML 🤠\n        
+UID:FC2L37KW65QMflCkBbMqM
+SUMMARY:🍽️ Lunch: Pasta pesto with chicken and basil
+DTSTAMP:20260727T085436Z
+DTSTART;VALUE=DATE:20260729
+DESCRIPTION:\n        🍗 Main: Pasta pesto with chicken and basil\n\n       
+	 🍜 Deli: \n\n        🥬 Vegetarian: Jamaican curry with cauliflower and pot
+	atoes\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry 
+	DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:tUnMGiD8zS5N1MPfpUjgi
-SUMMARY:🍽️ Lunch: Lasagna with chicken
-DTSTAMP:20260720T082426Z
-DTSTART;VALUE=DATE:20260723
-DESCRIPTION:\n        🍗 Main: Lasagna with chicken\n\n        🍜 Deli: Summe
-	r vacation\n\n        🥬 Vegetarian: Spanish Tortilla\n\n        Buon appet
-	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:RZPd-Wk5U1NqtbdsUc1vG
+SUMMARY:🍽️ Lunch: Honey orange roast pork with sweet potatoes
+DTSTAMP:20260727T085436Z
+DTSTART;VALUE=DATE:20260730
+DESCRIPTION:\n        🍗 Main: Honey orange roast pork with sweet potatoes\n
+	\n        🍜 Deli: \n\n        🥬 Vegetarian: Pasta with ricotta and spinach
+	\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠
+	\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:8i9dwBL-W_RqEvWY_Kxlu
-SUMMARY:🍽️ Lunch: Open Banh mi Open Faced Sandwiches with slow-roasted pork
-DTSTAMP:20260720T082426Z
-DTSTART;VALUE=DATE:20260721
-DESCRIPTION:\n        🍗 Main: Open Banh mi Open Faced Sandwiches with slow-
-	roasted pork\n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: P
-	oke Bowl\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
-	ry DML 🤠\n        
+UID:CTV8omZXizGVfl7UdWYyh
+SUMMARY:🍽️ Lunch: Hot dog day
+DTSTAMP:20260727T085436Z
+DTSTART;VALUE=DATE:20260731
+DESCRIPTION:\n        🍗 Main: Hot dog day\n\n        🍜 Deli: Summer vacatio
+	n\n\n        🥬 Vegetarian: Baked red fruits with homemade hummus\n\n      
+	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:_ZkhU5dWnnLS4fDAsTj4E
-SUMMARY:🍽️ Lunch: Fish cakes with fried potatoes and remoulade
-DTSTAMP:20260720T082426Z
-DTSTART;VALUE=DATE:20260722
-DESCRIPTION:\n        🍗 Main: Fish cakes with fried potatoes and remoulade\
-	n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: Beetroot steak
-	s with salad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by 
-	hungry DML 🤠\n        
+UID:jl7FkjJtkkxHZrXoKgrvG
+SUMMARY:🍽️ Lunch: Katsu Curry with crispy chicken\, potatoes and pineapple s
+	erved with basmati rice
+DTSTAMP:20260727T085436Z
+DTSTART;VALUE=DATE:20260727
+DESCRIPTION:\n        🍗 Main: Katsu Curry with crispy chicken\, potatoes an
+	d pineapple served with basmati rice\n\n        🍜 Deli: \n\n        🥬 Vege
+	tarian: Vegetable Lasagna with bechamel\, eggplant and squash\n\n        B
+	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
