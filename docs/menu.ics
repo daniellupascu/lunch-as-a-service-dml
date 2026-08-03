@@ -5,59 +5,60 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qr-fmSVUupGujBoQt23Zl
-SUMMARY:🍽️ Lunch: Thai glass noodle salad with pork\, celery\, tomato\, mint
-	 and lime
-DTSTAMP:20260727T085436Z
-DTSTART;VALUE=DATE:20260728
-DESCRIPTION:\n        🍗 Main: Thai glass noodle salad with pork\, celery\, 
-	tomato\, mint and lime\n\n        🍜 Deli: Summer vacation\n\n        🥬 Veg
-	etarian: Bulgur salad with feta\, olives and sun-dried tomatoes\n\n       
-	 Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:LWDWHE2Ykb_2dYlPS-ooZ
+SUMMARY:🍽️ Lunch: Lemon Chicken Souvlaki Wrap
+DTSTAMP:20260803T084801Z
+DTSTART;VALUE=DATE:20260804
+DESCRIPTION:\n        🍗 Main: Lemon Chicken Souvlaki Wrap\n\n        🍜 Deli
+	: Summer vacation\n\n        🥬 Vegetarian: Tomato risotto with pearl barle
+	y and baked asparagus\n\n        Buon appetito! 😋\n\n\n\n        Brought t
+	o you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FC2L37KW65QMflCkBbMqM
-SUMMARY:🍽️ Lunch: Pasta pesto with chicken and basil
-DTSTAMP:20260727T085436Z
-DTSTART;VALUE=DATE:20260729
-DESCRIPTION:\n        🍗 Main: Pasta pesto with chicken and basil\n\n       
-	 🍜 Deli: \n\n        🥬 Vegetarian: Jamaican curry with cauliflower and pot
-	atoes\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry 
-	DML 🤠\n        
+UID:1mVUq2jyleVsZv2NXrlw2
+SUMMARY:🍽️ Lunch: Beef Teriyaki with broccoli and noodles
+DTSTAMP:20260803T084801Z
+DTSTART;VALUE=DATE:20260805
+DESCRIPTION:\n        🍗 Main: Beef Teriyaki with broccoli and noodles\n\n  
+	      🍜 Deli: \n\n        🥬 Vegetarian: Dahl with red lentils\, green pepp
+	ers\, chili and spring onions\n\n        Buon appetito! 😋\n\n\n\n        B
+	rought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:RZPd-Wk5U1NqtbdsUc1vG
-SUMMARY:🍽️ Lunch: Honey orange roast pork with sweet potatoes
-DTSTAMP:20260727T085436Z
-DTSTART;VALUE=DATE:20260730
-DESCRIPTION:\n        🍗 Main: Honey orange roast pork with sweet potatoes\n
-	\n        🍜 Deli: \n\n        🥬 Vegetarian: Pasta with ricotta and spinach
-	\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠
-	\n        
+UID:PGKvzZw1pFxJxMi4RS00n
+SUMMARY:🍽️ Lunch: Fried Medister sausage with\, brown sauce\, potatoes\, red
+	 cabbage salad
+DTSTAMP:20260803T084801Z
+DTSTART;VALUE=DATE:20260806
+DESCRIPTION:\n        🍗 Main: Fried Medister sausage with\, brown sauce\, p
+	otatoes\, red cabbage salad\n\n        🍜 Deli: \n\n        🥬 Vegetarian: P
+	asta fusrelli arabiata with baked carrots\n\n        Buon appetito! 😋\n\n\
+	n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:CTV8omZXizGVfl7UdWYyh
-SUMMARY:🍽️ Lunch: Hot dog day
-DTSTAMP:20260727T085436Z
-DTSTART;VALUE=DATE:20260731
-DESCRIPTION:\n        🍗 Main: Hot dog day\n\n        🍜 Deli: Summer vacatio
-	n\n\n        🥬 Vegetarian: Baked red fruits with homemade hummus\n\n      
-	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:vaY8jXuMMk4hBcP5JNyn2
+SUMMARY:🍽️ Lunch: Pane cunzato with tuna and salad
+DTSTAMP:20260803T084801Z
+DTSTART;VALUE=DATE:20260807
+DESCRIPTION:\n        🍗 Main: Pane cunzato with tuna and salad\n\n        🍜
+	 Deli: Summer vacation\n\n        🥬 Vegetarian: Cauliflower tempura with t
+	arragon cream and pickled red onions\n\n        Buon appetito! 😋\n\n\n\n  
+	      Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:jl7FkjJtkkxHZrXoKgrvG
-SUMMARY:🍽️ Lunch: Katsu Curry with crispy chicken\, potatoes and pineapple s
-	erved with basmati rice
-DTSTAMP:20260727T085436Z
-DTSTART;VALUE=DATE:20260727
-DESCRIPTION:\n        🍗 Main: Katsu Curry with crispy chicken\, potatoes an
-	d pineapple served with basmati rice\n\n        🍜 Deli: \n\n        🥬 Vege
-	tarian: Vegetable Lasagna with bechamel\, eggplant and squash\n\n        B
-	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:gqlyTSKoE6pJ8jhqYQTHO
+SUMMARY:🍽️ Lunch: Gochujang Turkey with sesame cauliflower and basmati rice
+DTSTAMP:20260803T084801Z
+DTSTART;VALUE=DATE:20260803
+DESCRIPTION:\n        🍗 Main: Gochujang Turkey with sesame cauliflower and 
+	basmati rice\n\n        🍜 Deli: Summer vacation\n\n        🥬 Vegetarian: G
+	reek tortilla with tomato\, bell pepper and halloumi with basil dressing\n
+	\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n
+	        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
