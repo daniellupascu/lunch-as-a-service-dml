@@ -5,58 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:8RQTKdRkotVb1hvfj2aAl
-SUMMARY:🍽️ Lunch: Tigadegana Peanut stew with Chicken
-DTSTAMP:20260817T060005Z
-DTSTART;VALUE=DATE:20260817
-DESCRIPTION:\n        🍗 Main: Tigadegana Peanut stew with Chicken\n\n      
-	  🍜 Deli: Sausage mix with bearnaise cream\n\n        🥬 Vegetarian: Creamy
-	 Pasta with Mushrooms and Parmesan\n\n        Buon appetito! 😋\n\n\n\n    
-	    Brought to you by hungry DML 🤠\n        
+UID:t9HVvnufAeOwmm-_bcsz-
+SUMMARY:🍽️ Lunch: Goa Style Pork Vindaloo with Cardamom Rice
+DTSTAMP:20260824T060334Z
+DTSTART;VALUE=DATE:20260824
+DESCRIPTION:\n        🍗 Main: Goa Style Pork Vindaloo with Cardamom Rice\n\
+	n        🍜 Deli: Broccoli pie with toasted bacon\n\n        🥬 Vegetarian: 
+	Potato-leek soup\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
+	 by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Rcyr0AK4BPVJTyaLrslx2
-SUMMARY:🍽️ Lunch: Italian creamy pasta with beef and broccoli
-DTSTAMP:20260817T060005Z
-DTSTART;VALUE=DATE:20260818
-DESCRIPTION:\n        🍗 Main: Italian creamy pasta with beef and broccoli\n
-	\n        🍜 Deli: 2 kinds of Open Faced Sandwicheses\n\n        🥬 Vegetari
-	an: Tom kha with rice and tofu\n\n        Buon appetito! 😋\n\n\n\n        
-	Brought to you by hungry DML 🤠\n        
+UID:FA23lTONn0VvYAZIRaPeu
+SUMMARY:🍽️ Lunch: Roast beef with fried potatoes\, baked tomatoes and sour c
+	ream
+DTSTAMP:20260824T060334Z
+DTSTART;VALUE=DATE:20260825
+DESCRIPTION:\n        🍗 Main: Roast beef with fried potatoes\, baked tomato
+	es and sour cream\n\n        🍜 Deli: Eggs and shrimp\n\n        🥬 Vegetari
+	an: Mushroom Goulash\n\n        Buon appetito! 😋\n\n\n\n        Brought to
+	 you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:pWbdppgq100_le1kUN30O
-SUMMARY:🍽️ Lunch: Wiener schnitzel with gravy\, potatoes and peas
-DTSTAMP:20260817T060005Z
-DTSTART;VALUE=DATE:20260819
-DESCRIPTION:\n        🍗 Main: Wiener schnitzel with gravy\, potatoes and pe
-	as\n\n        🍜 Deli: Poke bowl with roasted pork and coconut-lime rice\n\
-	n        🥬 Vegetarian: Veggi Pie with spinach and mozzarella\n\n        Bu
-	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:Ic2FrCRTUPk7WAhKxgSxe
+SUMMARY:🍽️ Lunch: Summer fricassee with potatoes and chicken
+DTSTAMP:20260824T060334Z
+DTSTART;VALUE=DATE:20260826
+DESCRIPTION:\n        🍗 Main: Summer fricassee with potatoes and chicken\n\
+	n        🍜 Deli: Pulled pork Open Faced Sandwiches\n\n        🥬 Vegetarian
+	: Ratatouille with jasmine rice\n\n        Buon appetito! 😋\n\n\n\n       
+	 Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:LAyy_oAKy4kVv_Q856OHq
-SUMMARY:🍽️ Lunch: Fish meatballs with remoulade
-DTSTAMP:20260817T060005Z
-DTSTART;VALUE=DATE:20260820
-DESCRIPTION:\n        🍗 Main: Fish meatballs with remoulade\n\n        🍜 De
-	li: 2 kinds of Open Faced Sandwicheses\n\n        🥬 Vegetarian: French oni
-	on soup with cheese bread\n\n        Buon appetito! 😋\n\n\n\n        Broug
-	ht to you by hungry DML 🤠\n        
+UID:66wT3FUx-PHUYGIPt4PD0
+SUMMARY:🍽️ Lunch: Leek-bacon pie with spinach and ricotta
+DTSTAMP:20260824T060334Z
+DTSTART;VALUE=DATE:20260827
+DESCRIPTION:\n        🍗 Main: Leek-bacon pie with spinach and ricotta\n\n  
+	      🍜 Deli: Ham salad and potatoes\n\n        🥬 Vegetarian: Tadka Panneh
+	 Tikka\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry
+	 DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:W1RgpTJ6xDRMQbJK278Jx
-SUMMARY:🍽️ Lunch: Turkey burritos with salsa
-DTSTAMP:20260817T060005Z
-DTSTART;VALUE=DATE:20260821
-DESCRIPTION:\n        🍗 Main: Turkey burritos with salsa\n\n        🍜 Deli:
-	 onepot with chicken\, bacon and pimento aioli\n\n        🥬 Vegetarian: Ra
-	sma Masala with basmati rice\n\n        Buon appetito! 😋\n\n\n\n        Br
-	ought to you by hungry DML 🤠\n        
+UID:DO3MsH2gEw5lj5tiJFNmh
+SUMMARY:🍽️ Lunch: Chicken in tartlets
+DTSTAMP:20260824T060334Z
+DTSTART;VALUE=DATE:20260828
+DESCRIPTION:\n        🍗 Main: Chicken in tartlets\n\n        🍜 Deli: Pasta 
+	pesto with chicken\n\n        🥬 Vegetarian: Mexican Bean Compote\n\n      
+	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
