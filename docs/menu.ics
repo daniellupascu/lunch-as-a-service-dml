@@ -5,58 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:t9HVvnufAeOwmm-_bcsz-
-SUMMARY:🍽️ Lunch: Goa Style Pork Vindaloo with Cardamom Rice
-DTSTAMP:20260824T060334Z
-DTSTART;VALUE=DATE:20260824
-DESCRIPTION:\n        🍗 Main: Goa Style Pork Vindaloo with Cardamom Rice\n\
-	n        🍜 Deli: Broccoli pie with toasted bacon\n\n        🥬 Vegetarian: 
-	Potato-leek soup\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
-	 by hungry DML 🤠\n        
+UID:H4LzzTwCYgZhyMGrXHZDb
+SUMMARY:🍽️ Lunch: Pasta Alfredo
+DTSTAMP:20260831T114507Z
+DTSTART;VALUE=DATE:20260903
+DESCRIPTION:\n        🍗 Main: Pasta Alfredo\n\n        🍜 Deli: Fish meatbal
+	l with remoulade\, lemon and dill\n\n        🥬 Vegetarian: Pad Thai with n
+	oodles and cashew nuts\n\n        Buon appetito! 😋\n\n\n\n        Brought 
+	to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FA23lTONn0VvYAZIRaPeu
-SUMMARY:🍽️ Lunch: Roast beef with fried potatoes\, baked tomatoes and sour c
-	ream
-DTSTAMP:20260824T060334Z
-DTSTART;VALUE=DATE:20260825
-DESCRIPTION:\n        🍗 Main: Roast beef with fried potatoes\, baked tomato
-	es and sour cream\n\n        🍜 Deli: Eggs and shrimp\n\n        🥬 Vegetari
-	an: Mushroom Goulash\n\n        Buon appetito! 😋\n\n\n\n        Brought to
-	 you by hungry DML 🤠\n        
+UID:2Xaq-m9zSVCAXQqXoVP46
+SUMMARY:🍽️ Lunch: Chili con carne
+DTSTAMP:20260831T114507Z
+DTSTART;VALUE=DATE:20260904
+DESCRIPTION:\n        🍗 Main: Chili con carne\n\n        🍜 Deli: Club Open 
+	Faced Sandwiches with chicken and bacon with curry dressing\n\n        🥬 V
+	egetarian: Shepherd's pie with mashed potatoes and mushrooms\n\n        Bu
+	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Ic2FrCRTUPk7WAhKxgSxe
-SUMMARY:🍽️ Lunch: Summer fricassee with potatoes and chicken
-DTSTAMP:20260824T060334Z
-DTSTART;VALUE=DATE:20260826
-DESCRIPTION:\n        🍗 Main: Summer fricassee with potatoes and chicken\n\
-	n        🍜 Deli: Pulled pork Open Faced Sandwiches\n\n        🥬 Vegetarian
-	: Ratatouille with jasmine rice\n\n        Buon appetito! 😋\n\n\n\n       
-	 Brought to you by hungry DML 🤠\n        
+UID:LYq6ZzkcSPokUFe4OQKmT
+SUMMARY:🍽️ Lunch: Roast pork with potatoes and gravy
+DTSTAMP:20260831T114507Z
+DTSTART;VALUE=DATE:20260902
+DESCRIPTION:\n        🍗 Main: Roast pork with potatoes and gravy\n\n       
+	 🍜 Deli: Pokebowl with crispy chicken and sauce verte\n\n        🥬 Vegetar
+	ian: Baked eggplants with curry and rice\n\n        Buon appetito! 😋\n\n\n
+	\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:66wT3FUx-PHUYGIPt4PD0
-SUMMARY:🍽️ Lunch: Leek-bacon pie with spinach and ricotta
-DTSTAMP:20260824T060334Z
-DTSTART;VALUE=DATE:20260827
-DESCRIPTION:\n        🍗 Main: Leek-bacon pie with spinach and ricotta\n\n  
-	      🍜 Deli: Ham salad and potatoes\n\n        🥬 Vegetarian: Tadka Panneh
-	 Tikka\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry
-	 DML 🤠\n        
+UID:IyNORWWAOwETvxwGTAWiV
+SUMMARY:🍽️ Lunch: Butter chicken with basmati rice
+DTSTAMP:20260831T114507Z
+DTSTART;VALUE=DATE:20260901
+DESCRIPTION:\n        🍗 Main: Butter chicken with basmati rice\n\n        🍜
+	 Deli: Open Faced Sandwiches: Salmon salad and egg salad\n\n        🥬 Vege
+	tarian: Vegetarian lasagna with bechamel sauce\n\n        Buon appetito! 😋
+	\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:DO3MsH2gEw5lj5tiJFNmh
-SUMMARY:🍽️ Lunch: Chicken in tartlets
-DTSTAMP:20260824T060334Z
-DTSTART;VALUE=DATE:20260828
-DESCRIPTION:\n        🍗 Main: Chicken in tartlets\n\n        🍜 Deli: Pasta 
-	pesto with chicken\n\n        🥬 Vegetarian: Mexican Bean Compote\n\n      
-	  Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:xGVtDaLhSDZOalo7X14DH
+SUMMARY:🍽️ Lunch: Grilled Turkey with lemon dressing and summer cous cous
+DTSTAMP:20260831T114507Z
+DTSTART;VALUE=DATE:20260831
+DESCRIPTION:\n        🍗 Main: Grilled Turkey with lemon dressing and summer
+	 cous cous\n\n        🍜 Deli: Tortilla with chicken\, rice and beans\, acc
+	ompanied by avocado salsa\n\n        🥬 Vegetarian: Spicy Tomato soup with 
+	Ricotta cheese and croutons\n\n        Buon appetito! 😋\n\n\n\n        Bro
+	ught to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
