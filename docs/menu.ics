@@ -5,59 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:H4LzzTwCYgZhyMGrXHZDb
-SUMMARY:🍽️ Lunch: Pasta Alfredo
-DTSTAMP:20260831T114507Z
-DTSTART;VALUE=DATE:20260903
-DESCRIPTION:\n        🍗 Main: Pasta Alfredo\n\n        🍜 Deli: Fish meatbal
-	l with remoulade\, lemon and dill\n\n        🥬 Vegetarian: Pad Thai with n
-	oodles and cashew nuts\n\n        Buon appetito! 😋\n\n\n\n        Brought 
-	to you by hungry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:2Xaq-m9zSVCAXQqXoVP46
-SUMMARY:🍽️ Lunch: Chili con carne
-DTSTAMP:20260831T114507Z
-DTSTART;VALUE=DATE:20260904
-DESCRIPTION:\n        🍗 Main: Chili con carne\n\n        🍜 Deli: Club Open 
-	Faced Sandwiches with chicken and bacon with curry dressing\n\n        🥬 V
-	egetarian: Shepherd's pie with mashed potatoes and mushrooms\n\n        Bu
+UID:Ee-yA1t3oXc57B0xpgMok
+SUMMARY:🍽️ Lunch: Chicken Jarlfrezi with rice and lentils
+DTSTAMP:20260907T103729Z
+DTSTART;VALUE=DATE:20260911
+DESCRIPTION:\n        🍗 Main: Chicken Jarlfrezi with rice and lentils\n\n  
+	      🍜 Deli: Pizza with Serrano and parmesan pizza with potato and rosema
+	ry\n\n        🥬 Vegetarian: Falafel with hummus and tzatziki\n\n        Bu
 	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:LYq6ZzkcSPokUFe4OQKmT
-SUMMARY:🍽️ Lunch: Roast pork with potatoes and gravy
-DTSTAMP:20260831T114507Z
-DTSTART;VALUE=DATE:20260902
-DESCRIPTION:\n        🍗 Main: Roast pork with potatoes and gravy\n\n       
-	 🍜 Deli: Pokebowl with crispy chicken and sauce verte\n\n        🥬 Vegetar
-	ian: Baked eggplants with curry and rice\n\n        Buon appetito! 😋\n\n\n
-	\n        Brought to you by hungry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:IyNORWWAOwETvxwGTAWiV
-SUMMARY:🍽️ Lunch: Butter chicken with basmati rice
-DTSTAMP:20260831T114507Z
-DTSTART;VALUE=DATE:20260901
-DESCRIPTION:\n        🍗 Main: Butter chicken with basmati rice\n\n        🍜
-	 Deli: Open Faced Sandwiches: Salmon salad and egg salad\n\n        🥬 Vege
-	tarian: Vegetarian lasagna with bechamel sauce\n\n        Buon appetito! 😋
-	\n\n\n\n        Brought to you by hungry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:xGVtDaLhSDZOalo7X14DH
-SUMMARY:🍽️ Lunch: Grilled Turkey with lemon dressing and summer cous cous
-DTSTAMP:20260831T114507Z
-DTSTART;VALUE=DATE:20260831
-DESCRIPTION:\n        🍗 Main: Grilled Turkey with lemon dressing and summer
-	 cous cous\n\n        🍜 Deli: Tortilla with chicken\, rice and beans\, acc
-	ompanied by avocado salsa\n\n        🥬 Vegetarian: Spicy Tomato soup with 
-	Ricotta cheese and croutons\n\n        Buon appetito! 😋\n\n\n\n        Bro
+UID:qBJlZXYy5vZO4z0RirU6x
+SUMMARY:🍽️ Lunch: Turkey with yellow curry sauce and rice
+DTSTAMP:20260907T103729Z
+DTSTART;VALUE=DATE:20260908
+DESCRIPTION:\n        🍗 Main: Turkey with yellow curry sauce and rice\n\n  
+	      🍜 Deli: Chicken salad with bacon and tarragon Potato dish with mayon
+	naise\, tomato and chives\n\n        🥬 Vegetarian: Vegetarian meatballs wi
+	th potatoes and salsa verte\n\n        Buon appetito! 😋\n\n\n\n        Bro
 	ught to you by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:VB82yLnquBkb0lbkcs5OM
+SUMMARY:🍽️ Lunch: Paprika casserole with sausages and mashed potatoes
+DTSTAMP:20260907T103729Z
+DTSTART;VALUE=DATE:20260907
+DESCRIPTION:\n        🍗 Main: Paprika casserole with sausages and mashed po
+	tatoes\n\n        🍜 Deli: Pasta with tuna\, spinach\, tomato and olives\n\
+	n        🥬 Vegetarian: Mushroom soup with chanterelles and croutons\n\n   
+	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
+	   
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:N_zmb8x2eKO3JW2uZ_PeG
+SUMMARY:🍽️ Lunch: Chicken thighs with tabbouleh and schmaltzy dressing
+DTSTAMP:20260907T103729Z
+DTSTART;VALUE=DATE:20260909
+DESCRIPTION:\n        🍗 Main: Chicken thighs with tabbouleh and schmaltzy d
+	ressing\n\n        🍜 Deli: Open Faced Sandwiches with pastrami\, horseradi
+	sh\, cornichon and arugula\n\n        🥬 Vegetarian: Aloo Tikki with pea pu
+	ree fresh salad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you 
+	by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:OR3teCA9Px30lrkqT8VMt
+SUMMARY:🍽️ Lunch: Greek meatballs with tzatziki and potatoes
+DTSTAMP:20260907T103729Z
+DTSTART;VALUE=DATE:20260910
+DESCRIPTION:\n        🍗 Main: Greek meatballs with tzatziki and potatoes\n\
+	n        🍜 Deli: Pokebowl with chicken\, edemam and Goma dressing\n\n     
+	   🥬 Vegetarian: Cajun style Eggplant with hash browns and lime sauce\n\n 
+	       Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n   
+	     
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
