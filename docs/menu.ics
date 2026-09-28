@@ -5,62 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:CQhFJTeSDVtLAzZT7dVfi
-SUMMARY:🍽️ Lunch: Chicken Tikka masala served with naan bread
-DTSTAMP:20260921T105902Z
-DTSTART;VALUE=DATE:20260925
-DESCRIPTION:\n        🍗 Main: Chicken Tikka masala served with naan bread\n
-	\n        🍜 Deli: Tuna mousse with cucumber\, tomato and roasted capers\n\
-	n        🥬 Vegetarian: Baked cauliflower with Babaganoush and herb oil\n\n
+UID:nrv8yllY8hXak4FEfCOcm
+SUMMARY:🍽️ Lunch: Pulled Turkey Burger
+DTSTAMP:20260928T115336Z
+DTSTART;VALUE=DATE:20261001
+DESCRIPTION:\n        🍗 Main: Pulled Turkey Burger\n\n        🍜 Deli: Chick
+	en sticks with satay sauce\n\n        🥬 Vegetarian: Creamy Pasta with toma
+	to basil cream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
+	y hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:erZ3ryYBEEU8ae_z_izQV
+SUMMARY:🍽️ Lunch: Beer-braised pork loin with braised potatoes
+DTSTAMP:20260928T115336Z
+DTSTART;VALUE=DATE:20261002
+DESCRIPTION:\n        🍗 Main: Beer-braised pork loin with braised potatoes\
+	n\n        🍜 Deli: Chicken Brackwurts with potato salad\n\n        🥬 Veget
+	arian: French Onion Tart with Cream Cheese Cream\n\n        Buon appetito!
+	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+LOCATION:Canteen
+END:VEVENT
+BEGIN:VEVENT
+UID:9KSyA2pjx--nT-X4Gp66o
+SUMMARY:🍽️ Lunch: Chicken with tomato and spinach with pasta and grated mozz
+	arella
+DTSTAMP:20260928T115336Z
+DTSTART;VALUE=DATE:20260930
+DESCRIPTION:\n        🍗 Main: Chicken with tomato and spinach with pasta an
+	d grated mozzarella\n\n        🍜 Deli: Baked potato with bacon and crème f
+	raiche dressing\n\n        🥬 Vegetarian: Rasma Curry with Basmati rice\n\n
 	        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n  
 	      
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:0TkuRcerKi1vnWmEW0i78
-SUMMARY:🍽️ Lunch: Pad krapow with pork and rice
-DTSTAMP:20260921T105902Z
-DTSTART;VALUE=DATE:20260922
-DESCRIPTION:\n        🍗 Main: Pad krapow with pork and rice\n\n        🍜 De
-	li: Salmon salad with toasted rye bread and crispy lettuce\n\n        🥬 Ve
-	getarian: Arancini with piquillio sauce with parmesan and alfalfa sprouts\
-	n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\
-	n        
+UID:5coj-hsZDZyl09KznTKlm
+SUMMARY:🍽️ Lunch: Bo Kho with Beef and Noodles
+DTSTAMP:20260928T115336Z
+DTSTART;VALUE=DATE:20260929
+DESCRIPTION:\n        🍗 Main: Bo Kho with Beef and Noodles\n\n        🍜 Del
+	i: Eggs and tomato with side dishes & Wienerslat with sausages and potatoe
+	s\n\n        🥬 Vegetarian: Pad krapow with tofu\n\n        Buon appetito! 
+	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:rXz4pnuaZ6FrSxF7YmcQU
-SUMMARY:🍽️ Lunch: Mexican hot pot with beef\, lentils & rice
-DTSTAMP:20260921T105902Z
-DTSTART;VALUE=DATE:20260921
-DESCRIPTION:\n        🍗 Main: Mexican hot pot with beef\, lentils & rice\n\
-	n        🍜 Deli: Mexican Tortilla with pulled pork and tomato salsa\n\n   
-	     🥬 Vegetarian: Mexican Taco with bean puree and avocado salsa\n\n     
-	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
-	 
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:pU58iUPNU91YgpXKwVs0X
-SUMMARY:🍽️ Lunch: Pasta carbonara with turkey bacon
-DTSTAMP:20260921T105902Z
-DTSTART;VALUE=DATE:20260923
-DESCRIPTION:\n        🍗 Main: Pasta carbonara with turkey bacon\n\n        
-	🍜 Deli: Pasta with chicken\, curry and bacon\n\n        🥬 Vegetarian: Vega
-	n Bolognese with carrots\, bell peppers and baked onions\n\n        Buon a
-	ppetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
-LOCATION:Canteen
-END:VEVENT
-BEGIN:VEVENT
-UID:jybDLwIOjsnrF8TgzTjx6
-SUMMARY:🍽️ Lunch: Ham coulotte with stewed potatoes and bean salad
-DTSTAMP:20260921T105902Z
-DTSTART;VALUE=DATE:20260924
-DESCRIPTION:\n        🍗 Main: Ham coulotte with stewed potatoes and bean sa
-	lad\n\n        🍜 Deli: meatballs with potato salad\n\n        🥬 Vegetarian
-	: Vegetable goulash with mushrooms\, green mashed potatoes and tomato conc
-	assè\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry D
-	ML 🤠\n        
+UID:vRGdddDbI-E8WAppqK987
+SUMMARY:🍽️ Lunch: Jamaican Curry with Pork and Pineapple\, served with Rice 
+	and Chutney
+DTSTAMP:20260928T115336Z
+DTSTART;VALUE=DATE:20260928
+DESCRIPTION:\n        🍗 Main: Jamaican Curry with Pork and Pineapple\, serv
+	ed with Rice and Chutney\n\n        🍜 Deli: Caesar salad with chicken\, cr
+	outons topped with tomato and bell pepper\n\n        🥬 Vegetarian: Italian
+	 chickpea soup\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
+	y hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
