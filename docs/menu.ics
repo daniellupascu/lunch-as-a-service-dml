@@ -5,62 +5,61 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:nrv8yllY8hXak4FEfCOcm
-SUMMARY:🍽️ Lunch: Pulled Turkey Burger
-DTSTAMP:20260928T115336Z
-DTSTART;VALUE=DATE:20261001
-DESCRIPTION:\n        🍗 Main: Pulled Turkey Burger\n\n        🍜 Deli: Chick
-	en sticks with satay sauce\n\n        🥬 Vegetarian: Creamy Pasta with toma
-	to basil cream\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
-	y hungry DML 🤠\n        
+UID:0SZu0xUa0U9hAjClx4k5o
+SUMMARY:🍽️ Lunch: Roast hare with white potatoes\, cloud sauce and currant j
+	elly
+DTSTAMP:20261005T123033Z
+DTSTART;VALUE=DATE:20261007
+DESCRIPTION:\n        🍗 Main: Roast hare with white potatoes\, cloud sauce 
+	and currant jelly\n\n        🍜 Deli: Tortilla wraps with chicken\, beans a
+	nd rice Served with crème fraiche garlic dressing\n\n        🥬 Vegetarian:
+	 Spinach pie with ricotta cream\n\n        Buon appetito! 😋\n\n\n\n       
+	 Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:erZ3ryYBEEU8ae_z_izQV
-SUMMARY:🍽️ Lunch: Beer-braised pork loin with braised potatoes
-DTSTAMP:20260928T115336Z
-DTSTART;VALUE=DATE:20261002
-DESCRIPTION:\n        🍗 Main: Beer-braised pork loin with braised potatoes\
-	n\n        🍜 Deli: Chicken Brackwurts with potato salad\n\n        🥬 Veget
-	arian: French Onion Tart with Cream Cheese Cream\n\n        Buon appetito!
-	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:fkZLBD0WgH767VpIMhZua
+SUMMARY:🍽️ Lunch: coq au vin with mashed potatoes
+DTSTAMP:20261005T123033Z
+DTSTART;VALUE=DATE:20261005
+DESCRIPTION:\n        🍗 Main: coq au vin with mashed potatoes\n\n        🍜 
+	Deli: Classic Sausage mix with aioli\n\n        🥬 Vegetarian: Fettuccine w
+	ith mushrooms and cream sauce\n\n        Buon appetito! 😋\n\n\n\n        B
+	rought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:9KSyA2pjx--nT-X4Gp66o
-SUMMARY:🍽️ Lunch: Chicken with tomato and spinach with pasta and grated mozz
-	arella
-DTSTAMP:20260928T115336Z
-DTSTART;VALUE=DATE:20260930
-DESCRIPTION:\n        🍗 Main: Chicken with tomato and spinach with pasta an
-	d grated mozzarella\n\n        🍜 Deli: Baked potato with bacon and crème f
-	raiche dressing\n\n        🥬 Vegetarian: Rasma Curry with Basmati rice\n\n
-	        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n  
-	      
+UID:j2LSuWwtemmXuNmtMmyxx
+SUMMARY:🍽️ Lunch: 2 Kinds of Pizza
+DTSTAMP:20261005T123033Z
+DTSTART;VALUE=DATE:20261008
+DESCRIPTION:\n        🍗 Main: 2 Kinds of Pizza\n\n        🍜 Deli: Warm live
+	r pate with beetroot Chicken pate with cornichon\n\n        🥬 Vegetarian: 
+	cauliflower compote in pancake with cottage cheese\n\n        Buon appetit
+	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:5coj-hsZDZyl09KznTKlm
-SUMMARY:🍽️ Lunch: Bo Kho with Beef and Noodles
-DTSTAMP:20260928T115336Z
-DTSTART;VALUE=DATE:20260929
-DESCRIPTION:\n        🍗 Main: Bo Kho with Beef and Noodles\n\n        🍜 Del
-	i: Eggs and tomato with side dishes & Wienerslat with sausages and potatoe
-	s\n\n        🥬 Vegetarian: Pad krapow with tofu\n\n        Buon appetito! 
-	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:Tr2cUOOhEHBIFyECO03A2
+SUMMARY:🍽️ Lunch: 5 Spice pork with bok choy and rice
+DTSTAMP:20261005T123033Z
+DTSTART;VALUE=DATE:20261009
+DESCRIPTION:\n        🍗 Main: 5 Spice pork with bok choy and rice\n\n      
+	  🍜 Deli: Pokebowl with various accessories\n\n        🥬 Vegetarian: Teriy
+	aki Open Faced Sandwiches with crispy Torfu and pickled onion\n\n        B
+	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:vRGdddDbI-E8WAppqK987
-SUMMARY:🍽️ Lunch: Jamaican Curry with Pork and Pineapple\, served with Rice 
-	and Chutney
-DTSTAMP:20260928T115336Z
-DTSTART;VALUE=DATE:20260928
-DESCRIPTION:\n        🍗 Main: Jamaican Curry with Pork and Pineapple\, serv
-	ed with Rice and Chutney\n\n        🍜 Deli: Caesar salad with chicken\, cr
-	outons topped with tomato and bell pepper\n\n        🥬 Vegetarian: Italian
-	 chickpea soup\n\n        Buon appetito! 😋\n\n\n\n        Brought to you b
-	y hungry DML 🤠\n        
+UID:y8spvfgFnwSnDkdW7neOa
+SUMMARY:🍽️ Lunch: Salmon with Hollandaise cream and roasted broccoli
+DTSTAMP:20261005T123033Z
+DTSTART;VALUE=DATE:20261006
+DESCRIPTION:\n        🍗 Main: Salmon with Hollandaise cream and roasted bro
+	ccoli\n\n        🍜 Deli: Whole wheat pasta with chicken and baked carrots\
+	n\n        🥬 Vegetarian: Hokkaido soup with roasted pumpkin seeds and rye 
+	croutons\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
+	ry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
