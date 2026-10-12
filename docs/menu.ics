@@ -5,61 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:0SZu0xUa0U9hAjClx4k5o
-SUMMARY:🍽️ Lunch: Roast hare with white potatoes\, cloud sauce and currant j
-	elly
-DTSTAMP:20261005T123033Z
-DTSTART;VALUE=DATE:20261007
-DESCRIPTION:\n        🍗 Main: Roast hare with white potatoes\, cloud sauce 
-	and currant jelly\n\n        🍜 Deli: Tortilla wraps with chicken\, beans a
-	nd rice Served with crème fraiche garlic dressing\n\n        🥬 Vegetarian:
-	 Spinach pie with ricotta cream\n\n        Buon appetito! 😋\n\n\n\n       
-	 Brought to you by hungry DML 🤠\n        
+UID:fuWxAAy6o7cZmAYcS4QXi
+SUMMARY:🍽️ Lunch: buns in curry with pork & rice
+DTSTAMP:20261012T132415Z
+DTSTART;VALUE=DATE:20261014
+DESCRIPTION:\n        🍗 Main: buns in curry with pork & rice\n\n        🍜 D
+	eli: Salmon salad with capers and toasted bread\n\n        🥬 Vegetarian: G
+	reen coconut curry with fried vegetables and potatoes\n\n        Buon appe
+	tito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:fkZLBD0WgH767VpIMhZua
-SUMMARY:🍽️ Lunch: coq au vin with mashed potatoes
-DTSTAMP:20261005T123033Z
-DTSTART;VALUE=DATE:20261005
-DESCRIPTION:\n        🍗 Main: coq au vin with mashed potatoes\n\n        🍜 
-	Deli: Classic Sausage mix with aioli\n\n        🥬 Vegetarian: Fettuccine w
-	ith mushrooms and cream sauce\n\n        Buon appetito! 😋\n\n\n\n        B
-	rought to you by hungry DML 🤠\n        
+UID:AAqoPoqFnWdZxz6CVvS9_
+SUMMARY:🍽️ Lunch: Stuffed peppers with beef and beans. Served with salsa.
+DTSTAMP:20261012T132415Z
+DTSTART;VALUE=DATE:20261015
+DESCRIPTION:\n        🍗 Main: Stuffed peppers with beef and beans. Served w
+	ith salsa.\n\n        🍜 Deli: chicken salad with mushrooms\n\n        🥬 Ve
+	getarian: Tomato risotto with fried onions\n\n        Buon appetito! 😋\n\n
+	\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:j2LSuWwtemmXuNmtMmyxx
-SUMMARY:🍽️ Lunch: 2 Kinds of Pizza
-DTSTAMP:20261005T123033Z
-DTSTART;VALUE=DATE:20261008
-DESCRIPTION:\n        🍗 Main: 2 Kinds of Pizza\n\n        🍜 Deli: Warm live
-	r pate with beetroot Chicken pate with cornichon\n\n        🥬 Vegetarian: 
-	cauliflower compote in pancake with cottage cheese\n\n        Buon appetit
-	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:sBPIkVhWNnZuAZWdwf3iV
+SUMMARY:🍽️ Lunch: KATSU curry with crispy chicken
+DTSTAMP:20261012T132415Z
+DTSTART;VALUE=DATE:20261016
+DESCRIPTION:\n        🍗 Main: KATSU curry with crispy chicken\n\n        🍜 
+	Deli: Greek meatloaf with olives\, tomatoes and cornichons\n\n        🥬 Ve
+	getarian: Cannelloni with spinach and bechamel sauce\n\n        Buon appet
+	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:Tr2cUOOhEHBIFyECO03A2
-SUMMARY:🍽️ Lunch: 5 Spice pork with bok choy and rice
-DTSTAMP:20261005T123033Z
-DTSTART;VALUE=DATE:20261009
-DESCRIPTION:\n        🍗 Main: 5 Spice pork with bok choy and rice\n\n      
-	  🍜 Deli: Pokebowl with various accessories\n\n        🥬 Vegetarian: Teriy
-	aki Open Faced Sandwiches with crispy Torfu and pickled onion\n\n        B
-	uon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:YC2r6hn6t2l_AkYzzkpaJ
+SUMMARY:🍽️ Lunch: Yavoriv pie with turkey and sour cream
+DTSTAMP:20261012T132415Z
+DTSTART;VALUE=DATE:20261012
+DESCRIPTION:\n        🍗 Main: Yavoriv pie with turkey and sour cream\n\n   
+	     🍜 Deli: Chicken Meatballs with Potato Salad\n\n        🥬 Vegetarian: 
+	Curry with beluga lentils and naan bread\n\n        Buon appetito! 😋\n\n\n
+	\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:y8spvfgFnwSnDkdW7neOa
-SUMMARY:🍽️ Lunch: Salmon with Hollandaise cream and roasted broccoli
-DTSTAMP:20261005T123033Z
-DTSTART;VALUE=DATE:20261006
-DESCRIPTION:\n        🍗 Main: Salmon with Hollandaise cream and roasted bro
-	ccoli\n\n        🍜 Deli: Whole wheat pasta with chicken and baked carrots\
-	n\n        🥬 Vegetarian: Hokkaido soup with roasted pumpkin seeds and rye 
-	croutons\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hung
-	ry DML 🤠\n        
+UID:mm3CrqN4awwruNozm1sTo
+SUMMARY:🍽️ Lunch: African peanuts stew with chicken & cous cous
+DTSTAMP:20261012T132415Z
+DTSTART;VALUE=DATE:20261013
+DESCRIPTION:\n        🍗 Main: African peanuts stew with chicken & cous cous
+	\n\n        🍜 Deli: Egg and potato Open Faced Sandwicheses\n\n        🥬 Ve
+	getarian: Ratatouille with tomato\, bell pepper\, squash and eggplant. Ser
+	ved with Basmati rice.\n\n        Buon appetito! 😋\n\n\n\n        Brought 
+	to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
