@@ -5,59 +5,58 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fuWxAAy6o7cZmAYcS4QXi
-SUMMARY:🍽️ Lunch: buns in curry with pork & rice
-DTSTAMP:20261012T132415Z
-DTSTART;VALUE=DATE:20261014
-DESCRIPTION:\n        🍗 Main: buns in curry with pork & rice\n\n        🍜 D
-	eli: Salmon salad with capers and toasted bread\n\n        🥬 Vegetarian: G
-	reen coconut curry with fried vegetables and potatoes\n\n        Buon appe
-	tito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:yZOi2QyxLZlZlNxDKElYj
+SUMMARY:🍽️ Lunch: Open Banh Mi Open Faced Sandwiches with crispy pork
+DTSTAMP:20261019T110434Z
+DTSTART;VALUE=DATE:20261023
+DESCRIPTION:\n        🍗 Main: Open Banh Mi Open Faced Sandwiches with crisp
+	y pork\n\n        🍜 Deli: Turkey pie served with beetroot salad and dill d
+	ressing\n\n        🥬 Vegetarian: Minestrone soup\n\n        Buon appetito!
+	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:AAqoPoqFnWdZxz6CVvS9_
-SUMMARY:🍽️ Lunch: Stuffed peppers with beef and beans. Served with salsa.
-DTSTAMP:20261012T132415Z
-DTSTART;VALUE=DATE:20261015
-DESCRIPTION:\n        🍗 Main: Stuffed peppers with beef and beans. Served w
-	ith salsa.\n\n        🍜 Deli: chicken salad with mushrooms\n\n        🥬 Ve
-	getarian: Tomato risotto with fried onions\n\n        Buon appetito! 😋\n\n
-	\n\n        Brought to you by hungry DML 🤠\n        
+UID:5IdqiL66aZ_UiPJWL32QK
+SUMMARY:🍽️ Lunch: Glazed ham with stewed cabbage and potatoes
+DTSTAMP:20261019T110434Z
+DTSTART;VALUE=DATE:20261020
+DESCRIPTION:\n        🍗 Main: Glazed ham with stewed cabbage and potatoes\n
+	\n        🍜 Deli: Salad Nicoise\n\n        🥬 Vegetarian: Vegetarian Biryan
+	i\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 
+	🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:sBPIkVhWNnZuAZWdwf3iV
-SUMMARY:🍽️ Lunch: KATSU curry with crispy chicken
-DTSTAMP:20261012T132415Z
-DTSTART;VALUE=DATE:20261016
-DESCRIPTION:\n        🍗 Main: KATSU curry with crispy chicken\n\n        🍜 
-	Deli: Greek meatloaf with olives\, tomatoes and cornichons\n\n        🥬 Ve
-	getarian: Cannelloni with spinach and bechamel sauce\n\n        Buon appet
-	ito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:a1b-IOT3VtDs8tyg5ehh6
+SUMMARY:🍽️ Lunch: Beef Lasagna
+DTSTAMP:20261019T110434Z
+DTSTART;VALUE=DATE:20261021
+DESCRIPTION:\n        🍗 Main: Beef Lasagna\n\n        🍜 Deli: Open Faced Sa
+	ndwiches with ham salad\n\n        🥬 Vegetarian: Panang curry with tofu an
+	d egg noodles\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
+	 hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:YC2r6hn6t2l_AkYzzkpaJ
-SUMMARY:🍽️ Lunch: Yavoriv pie with turkey and sour cream
-DTSTAMP:20261012T132415Z
-DTSTART;VALUE=DATE:20261012
-DESCRIPTION:\n        🍗 Main: Yavoriv pie with turkey and sour cream\n\n   
-	     🍜 Deli: Chicken Meatballs with Potato Salad\n\n        🥬 Vegetarian: 
-	Curry with beluga lentils and naan bread\n\n        Buon appetito! 😋\n\n\n
-	\n        Brought to you by hungry DML 🤠\n        
+UID:SUgQVie63Kd6rGP3c33WR
+SUMMARY:🍽️ Lunch: Butter Chicken with holy rice
+DTSTAMP:20261019T110434Z
+DTSTART;VALUE=DATE:20261019
+DESCRIPTION:\n        🍗 Main: Butter Chicken with holy rice\n\n        🍜 De
+	li: sold out for today.\n\n        🥬 Vegetarian: Potato leek soup\n\n     
+	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
+	 
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:mm3CrqN4awwruNozm1sTo
-SUMMARY:🍽️ Lunch: African peanuts stew with chicken & cous cous
-DTSTAMP:20261012T132415Z
-DTSTART;VALUE=DATE:20261013
-DESCRIPTION:\n        🍗 Main: African peanuts stew with chicken & cous cous
-	\n\n        🍜 Deli: Egg and potato Open Faced Sandwicheses\n\n        🥬 Ve
-	getarian: Ratatouille with tomato\, bell pepper\, squash and eggplant. Ser
-	ved with Basmati rice.\n\n        Buon appetito! 😋\n\n\n\n        Brought 
-	to you by hungry DML 🤠\n        
+UID:phfYY8lxpjAndVnBoHJRD
+SUMMARY:🍽️ Lunch: Turkey schnitzel with potatoes and peas
+DTSTAMP:20261019T110434Z
+DTSTART;VALUE=DATE:20261022
+DESCRIPTION:\n        🍗 Main: Turkey schnitzel with potatoes and peas\n\n  
+	      🍜 Deli: Pulled pork Open Faced Sandwiches\n\n        🥬 Vegetarian: V
+	egetarian schnitzel with potatoes and brown sauce\n\n        Buon appetito
+	! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
