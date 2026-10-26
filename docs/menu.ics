@@ -5,58 +5,62 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:yZOi2QyxLZlZlNxDKElYj
-SUMMARY:🍽️ Lunch: Open Banh Mi Open Faced Sandwiches with crispy pork
-DTSTAMP:20261019T110434Z
-DTSTART;VALUE=DATE:20261023
-DESCRIPTION:\n        🍗 Main: Open Banh Mi Open Faced Sandwiches with crisp
-	y pork\n\n        🍜 Deli: Turkey pie served with beetroot salad and dill d
-	ressing\n\n        🥬 Vegetarian: Minestrone soup\n\n        Buon appetito!
-	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:qFd9JRx5guEu6afnEz8Y8
+SUMMARY:🍽️ Lunch: Mongolian pork with rice
+DTSTAMP:20261026T112358Z
+DTSTART;VALUE=DATE:20261027
+DESCRIPTION:\n        🍗 Main: Mongolian pork with rice\n\n        🍜 Deli: Q
+	uesadilla with beef and avocado salad\n\n        🥬 Vegetarian: Mushroom st
+	roganoff with green mashed potatoes\n\n        Buon appetito! 😋\n\n\n\n   
+	     Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:5IdqiL66aZ_UiPJWL32QK
-SUMMARY:🍽️ Lunch: Glazed ham with stewed cabbage and potatoes
-DTSTAMP:20261019T110434Z
-DTSTART;VALUE=DATE:20261020
-DESCRIPTION:\n        🍗 Main: Glazed ham with stewed cabbage and potatoes\n
-	\n        🍜 Deli: Salad Nicoise\n\n        🥬 Vegetarian: Vegetarian Biryan
-	i\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 
-	🤠\n        
+UID:TV8GgD4qXByE1UXPvjpfx
+SUMMARY:🍽️ Lunch: Fish meatballs with remoulade and potatoes
+DTSTAMP:20261026T112358Z
+DTSTART;VALUE=DATE:20261028
+DESCRIPTION:\n        🍗 Main: Fish meatballs with remoulade and potatoes\n\
+	n        🍜 Deli: Pokebowl with chicken and goma dressing\n\n        🥬 Vege
+	tarian: Caramelized onion tart with cauliflower\, persimmon sharon and fri
+	see salad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hun
+	gry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:a1b-IOT3VtDs8tyg5ehh6
-SUMMARY:🍽️ Lunch: Beef Lasagna
-DTSTAMP:20261019T110434Z
-DTSTART;VALUE=DATE:20261021
-DESCRIPTION:\n        🍗 Main: Beef Lasagna\n\n        🍜 Deli: Open Faced Sa
-	ndwiches with ham salad\n\n        🥬 Vegetarian: Panang curry with tofu an
-	d egg noodles\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by
-	 hungry DML 🤠\n        
+UID:z1UYV7zRM16Z3aaIlIiGl
+SUMMARY:🍽️ Lunch: Beef teriyaki with noodles and broccoli
+DTSTAMP:20261026T112358Z
+DTSTART;VALUE=DATE:20261029
+DESCRIPTION:\n        🍗 Main: Beef teriyaki with noodles and broccoli\n\n  
+	      🍜 Deli: Open Faced Sandwiches with tuna salad and chicken meatballs\
+	n\n        🥬 Vegetarian: Creamy pasta with tomato\, basil and lemon\n\n   
+	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
+	   
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:SUgQVie63Kd6rGP3c33WR
-SUMMARY:🍽️ Lunch: Butter Chicken with holy rice
-DTSTAMP:20261019T110434Z
-DTSTART;VALUE=DATE:20261019
-DESCRIPTION:\n        🍗 Main: Butter Chicken with holy rice\n\n        🍜 De
-	li: sold out for today.\n\n        🥬 Vegetarian: Potato leek soup\n\n     
-	   Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n       
-	 
+UID:PWDpgbhqzkzM7rn7_bF7P
+SUMMARY:🍽️ Lunch: Swedish meatballs with mashed potatoes\, brown sauce and c
+	ranberries
+DTSTAMP:20261026T112358Z
+DTSTART;VALUE=DATE:20261030
+DESCRIPTION:\n        🍗 Main: Swedish meatballs with mashed potatoes\, brow
+	n sauce and cranberries\n\n        🍜 Deli: Arancini with truffle mayonnais
+	e\n\n        🥬 Vegetarian: falafel with hummus\, tomato-cucumber salad and
+	 garlic dressing\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
+	 by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:phfYY8lxpjAndVnBoHJRD
-SUMMARY:🍽️ Lunch: Turkey schnitzel with potatoes and peas
-DTSTAMP:20261019T110434Z
-DTSTART;VALUE=DATE:20261022
-DESCRIPTION:\n        🍗 Main: Turkey schnitzel with potatoes and peas\n\n  
-	      🍜 Deli: Pulled pork Open Faced Sandwiches\n\n        🥬 Vegetarian: V
-	egetarian schnitzel with potatoes and brown sauce\n\n        Buon appetito
-	! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:rdUYTQKiGxYUrqciKe2v-
+SUMMARY:🍽️ Lunch: Spanakopita with tzatziki and grilled chicken
+DTSTAMP:20261026T112358Z
+DTSTART;VALUE=DATE:20261026
+DESCRIPTION:\n        🍗 Main: Spanakopita with tzatziki and grilled chicken
+	\n\n        🍜 Deli: Classic omelette with tomato. French salad\n\n        
+	🥬 Vegetarian: squash meatballs with Romesco and coleslaw\n\n        Buon a
+	ppetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
