@@ -5,62 +5,63 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:qFd9JRx5guEu6afnEz8Y8
-SUMMARY:🍽️ Lunch: Mongolian pork with rice
-DTSTAMP:20261026T112358Z
-DTSTART;VALUE=DATE:20261027
-DESCRIPTION:\n        🍗 Main: Mongolian pork with rice\n\n        🍜 Deli: Q
-	uesadilla with beef and avocado salad\n\n        🥬 Vegetarian: Mushroom st
-	roganoff with green mashed potatoes\n\n        Buon appetito! 😋\n\n\n\n   
-	     Brought to you by hungry DML 🤠\n        
+UID:fU6USSQUSfBy3JEHvlp4u
+SUMMARY:🍽️ Lunch: Meatballs with red cabbage and cucumber salad\, served wit
+	h brown sauce and potatoes
+DTSTAMP:20261102T134430Z
+DTSTART;VALUE=DATE:20261105
+DESCRIPTION:\n        🍗 Main: Meatballs with red cabbage and cucumber salad
+	\, served with brown sauce and potatoes\n\n        🍜 Deli: Open Faced Sand
+	wiches with fish pieces and chicken salad\n\n        🥬 Vegetarian: VEGGI W
+	OK with tofu and egg noodles\n\n        Buon appetito! 😋\n\n\n\n        Br
+	ought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:TV8GgD4qXByE1UXPvjpfx
-SUMMARY:🍽️ Lunch: Fish meatballs with remoulade and potatoes
-DTSTAMP:20261026T112358Z
-DTSTART;VALUE=DATE:20261028
-DESCRIPTION:\n        🍗 Main: Fish meatballs with remoulade and potatoes\n\
-	n        🍜 Deli: Pokebowl with chicken and goma dressing\n\n        🥬 Vege
-	tarian: Caramelized onion tart with cauliflower\, persimmon sharon and fri
-	see salad\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hun
-	gry DML 🤠\n        
+UID:evT14yXvYumw6Lj8YUV_p
+SUMMARY:🍽️ Lunch: Chicken tikka marsala with rice and red lentils
+DTSTAMP:20261102T134430Z
+DTSTART;VALUE=DATE:20261106
+DESCRIPTION:\n        🍗 Main: Chicken tikka marsala with rice and red lenti
+	ls\n\n        🍜 Deli: Crispy Pork Salad\n\n        🥬 Vegetarian: Lentil me
+	atballs with potato salad\n\n        Buon appetito! 😋\n\n\n\n        Broug
+	ht to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:z1UYV7zRM16Z3aaIlIiGl
-SUMMARY:🍽️ Lunch: Beef teriyaki with noodles and broccoli
-DTSTAMP:20261026T112358Z
-DTSTART;VALUE=DATE:20261029
-DESCRIPTION:\n        🍗 Main: Beef teriyaki with noodles and broccoli\n\n  
-	      🍜 Deli: Open Faced Sandwiches with tuna salad and chicken meatballs\
-	n\n        🥬 Vegetarian: Creamy pasta with tomato\, basil and lemon\n\n   
-	     Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n     
-	   
+UID:nHaTvDAo-n9ZvRXF7ki0G
+SUMMARY:🍽️ Lunch: Pasta with truffle and fried turkey chorizo
+DTSTAMP:20261102T134430Z
+DTSTART;VALUE=DATE:20261104
+DESCRIPTION:\n        🍗 Main: Pasta with truffle and fried turkey chorizo\n
+	\n        🍜 Deli: Open Faced Sandwiches with tuna and arugula\n\n        🥬
+	 Vegetarian: Risotto with mushrooms and truffle\n\n        Buon appetito! 
+	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:PWDpgbhqzkzM7rn7_bF7P
-SUMMARY:🍽️ Lunch: Swedish meatballs with mashed potatoes\, brown sauce and c
-	ranberries
-DTSTAMP:20261026T112358Z
-DTSTART;VALUE=DATE:20261030
-DESCRIPTION:\n        🍗 Main: Swedish meatballs with mashed potatoes\, brow
-	n sauce and cranberries\n\n        🍜 Deli: Arancini with truffle mayonnais
-	e\n\n        🥬 Vegetarian: falafel with hummus\, tomato-cucumber salad and
-	 garlic dressing\n\n        Buon appetito! 😋\n\n\n\n        Brought to you
-	 by hungry DML 🤠\n        
+UID:DMS3D4pQJisMJNMm-7Lt4
+SUMMARY:🍽️ Lunch: Tenderloin casserole with bacon and sausages served with m
+	ashed potatoes
+DTSTAMP:20261102T134430Z
+DTSTART;VALUE=DATE:20261103
+DESCRIPTION:\n        🍗 Main: Tenderloin casserole with bacon and sausages 
+	served with mashed potatoes\n\n        🍜 Deli: Pie with pulled pork and cr
+	ispy salad\n\n        🥬 Vegetarian: Palak paneer with spinach and mango ch
+	utney\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry 
+	DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:rdUYTQKiGxYUrqciKe2v-
-SUMMARY:🍽️ Lunch: Spanakopita with tzatziki and grilled chicken
-DTSTAMP:20261026T112358Z
-DTSTART;VALUE=DATE:20261026
-DESCRIPTION:\n        🍗 Main: Spanakopita with tzatziki and grilled chicken
-	\n\n        🍜 Deli: Classic omelette with tomato. French salad\n\n        
-	🥬 Vegetarian: squash meatballs with Romesco and coleslaw\n\n        Buon a
-	ppetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:ANwVEFdwWqa7A4Ej5_L-3
+SUMMARY:🍽️ Lunch: Chicken Diablo with tomato-lentil sauce and brown rice
+DTSTAMP:20261102T134430Z
+DTSTART;VALUE=DATE:20261102
+DESCRIPTION:\n        🍗 Main: Chicken Diablo with tomato-lentil sauce and b
+	rown rice\n\n        🍜 Deli: Burrito is sold out\, turkey pie will be avai
+	lable at 12 noon\n\n        🥬 Vegetarian: Chili sin carne with Basmati ric
+	e\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 
+	🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
