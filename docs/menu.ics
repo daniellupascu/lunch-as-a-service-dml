@@ -5,63 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:fU6USSQUSfBy3JEHvlp4u
-SUMMARY:🍽️ Lunch: Meatballs with red cabbage and cucumber salad\, served wit
-	h brown sauce and potatoes
-DTSTAMP:20261102T134430Z
-DTSTART;VALUE=DATE:20261105
-DESCRIPTION:\n        🍗 Main: Meatballs with red cabbage and cucumber salad
-	\, served with brown sauce and potatoes\n\n        🍜 Deli: Open Faced Sand
-	wiches with fish pieces and chicken salad\n\n        🥬 Vegetarian: VEGGI W
-	OK with tofu and egg noodles\n\n        Buon appetito! 😋\n\n\n\n        Br
-	ought to you by hungry DML 🤠\n        
+UID:PuvuzetMHkk83KbszNxic
+SUMMARY:🍽️ Lunch: krebinettes with stewed vegetables and white potatoes
+DTSTAMP:20261109T141141Z
+DTSTART;VALUE=DATE:20261113
+DESCRIPTION:\n        🍗 Main: krebinettes with stewed vegetables and white 
+	potatoes\n\n        🍜 Deli: Spring rolls with cabbage-carrot-seaweed salad
+	\n\n        🥬 Vegetarian: Breaded eggplant with caper butter and fine peas
+	\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠
+	\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:evT14yXvYumw6Lj8YUV_p
-SUMMARY:🍽️ Lunch: Chicken tikka marsala with rice and red lentils
-DTSTAMP:20261102T134430Z
-DTSTART;VALUE=DATE:20261106
-DESCRIPTION:\n        🍗 Main: Chicken tikka marsala with rice and red lenti
-	ls\n\n        🍜 Deli: Crispy Pork Salad\n\n        🥬 Vegetarian: Lentil me
-	atballs with potato salad\n\n        Buon appetito! 😋\n\n\n\n        Broug
-	ht to you by hungry DML 🤠\n        
+UID:kxGoGO_QNRHkLfVDskAyh
+SUMMARY:🍽️ Lunch: Duck with potatoes and sauce
+DTSTAMP:20261109T141141Z
+DTSTART;VALUE=DATE:20261110
+DESCRIPTION:\n        🍗 Main: Duck with potatoes and sauce\n\n        🍜 Del
+	i: meatballs with potato salad\n\n        🥬 Vegetarian: fried mushrooms on
+	 toasted sourdough bread with parmesan and basil\n\n        Buon appetito!
+	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:nHaTvDAo-n9ZvRXF7ki0G
-SUMMARY:🍽️ Lunch: Pasta with truffle and fried turkey chorizo
-DTSTAMP:20261102T134430Z
-DTSTART;VALUE=DATE:20261104
-DESCRIPTION:\n        🍗 Main: Pasta with truffle and fried turkey chorizo\n
-	\n        🍜 Deli: Open Faced Sandwiches with tuna and arugula\n\n        🥬
-	 Vegetarian: Risotto with mushrooms and truffle\n\n        Buon appetito! 
-	😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:EAvmbilAvoP4w0i9wEo_r
+SUMMARY:🍽️ Lunch: Turkey Lemon-butter-thyme-chardonnay with couscous
+DTSTAMP:20261109T141141Z
+DTSTART;VALUE=DATE:20261109
+DESCRIPTION:\n        🍗 Main: Turkey Lemon-butter-thyme-chardonnay with cou
+	scous\n\n        🍜 Deli: Crispy chicken burger with coleslaw\n\n        🥬 
+	Vegetarian: spicy tomato soup with garlic croutons\n\n        Buon appetit
+	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:DMS3D4pQJisMJNMm-7Lt4
-SUMMARY:🍽️ Lunch: Tenderloin casserole with bacon and sausages served with m
-	ashed potatoes
-DTSTAMP:20261102T134430Z
-DTSTART;VALUE=DATE:20261103
-DESCRIPTION:\n        🍗 Main: Tenderloin casserole with bacon and sausages 
-	served with mashed potatoes\n\n        🍜 Deli: Pie with pulled pork and cr
-	ispy salad\n\n        🥬 Vegetarian: Palak paneer with spinach and mango ch
-	utney\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry 
-	DML 🤠\n        
+UID:FG9hNkD1q7RqQKzTfny0X
+SUMMARY:🍽️ Lunch: Mexican hotpot with nachos
+DTSTAMP:20261109T141141Z
+DTSTART;VALUE=DATE:20261111
+DESCRIPTION:\n        🍗 Main: Mexican hotpot with nachos\n\n        🍜 Deli:
+	 Russet potatoes with Serrano ham\n\n        🥬 Vegetarian: Veggi Curry wit
+	h lentils and rice\n\n        Buon appetito! 😋\n\n\n\n        Brought to y
+	ou by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:ANwVEFdwWqa7A4Ej5_L-3
-SUMMARY:🍽️ Lunch: Chicken Diablo with tomato-lentil sauce and brown rice
-DTSTAMP:20261102T134430Z
-DTSTART;VALUE=DATE:20261102
-DESCRIPTION:\n        🍗 Main: Chicken Diablo with tomato-lentil sauce and b
-	rown rice\n\n        🍜 Deli: Burrito is sold out\, turkey pie will be avai
-	lable at 12 noon\n\n        🥬 Vegetarian: Chili sin carne with Basmati ric
-	e\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 
-	🤠\n        
+UID:INNsJlog1lkSjz-YW38Qf
+SUMMARY:🍽️ Lunch: Chicken Tandoori with jeera rice
+DTSTAMP:20261109T141141Z
+DTSTART;VALUE=DATE:20261112
+DESCRIPTION:\n        🍗 Main: Chicken Tandoori with jeera rice\n\n        🍜
+	 Deli: Open Faced Sandwiches with potato and eggs and shrimp\n\n        🥬 
+	Vegetarian: Fritata with potatoes and gouda cheese\n\n        Buon appetit
+	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
