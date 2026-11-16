@@ -5,59 +5,59 @@ PRODID:adamgibbons/ics
 METHOD:PUBLISH
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
-UID:PuvuzetMHkk83KbszNxic
-SUMMARY:🍽️ Lunch: krebinettes with stewed vegetables and white potatoes
-DTSTAMP:20261109T141141Z
-DTSTART;VALUE=DATE:20261113
-DESCRIPTION:\n        🍗 Main: krebinettes with stewed vegetables and white 
-	potatoes\n\n        🍜 Deli: Spring rolls with cabbage-carrot-seaweed salad
-	\n\n        🥬 Vegetarian: Breaded eggplant with caper butter and fine peas
-	\n\n        Buon appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠
-	\n        
+UID:ENUaI_Z1Aa3ucGWTMJipR
+SUMMARY:🍽️ Lunch: Deepfried Cod with sauce tartar and potato chips
+DTSTAMP:20261116T135431Z
+DTSTART;VALUE=DATE:20261119
+DESCRIPTION:\n        🍗 Main: Deepfried Cod with sauce tartar and potato ch
+	ips\n\n        🍜 Deli: Open Faced Sandwiches with roast beef and egg\n\n  
+	      🥬 Vegetarian: Indian curry with eggplant and chickpeas\n\n        Bu
+	on appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:kxGoGO_QNRHkLfVDskAyh
-SUMMARY:🍽️ Lunch: Duck with potatoes and sauce
-DTSTAMP:20261109T141141Z
-DTSTART;VALUE=DATE:20261110
-DESCRIPTION:\n        🍗 Main: Duck with potatoes and sauce\n\n        🍜 Del
-	i: meatballs with potato salad\n\n        🥬 Vegetarian: fried mushrooms on
-	 toasted sourdough bread with parmesan and basil\n\n        Buon appetito!
-	 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:cmEPyIin4Be5BoxH2-gI0
+SUMMARY:🍽️ Lunch: Chicken Jarlfrezzi with brown rice and raita
+DTSTAMP:20261116T135431Z
+DTSTART;VALUE=DATE:20261120
+DESCRIPTION:\n        🍗 Main: Chicken Jarlfrezzi with brown rice and raita\
+	n\n        🍜 Deli: carrot pate with crispy bacon and fried capers\n\n     
+	   🥬 Vegetarian: Pasta Alfredo with pasta tagliatelle\n\n        Buon appe
+	tito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:EAvmbilAvoP4w0i9wEo_r
-SUMMARY:🍽️ Lunch: Turkey Lemon-butter-thyme-chardonnay with couscous
-DTSTAMP:20261109T141141Z
-DTSTART;VALUE=DATE:20261109
-DESCRIPTION:\n        🍗 Main: Turkey Lemon-butter-thyme-chardonnay with cou
-	scous\n\n        🍜 Deli: Crispy chicken burger with coleslaw\n\n        🥬 
-	Vegetarian: spicy tomato soup with garlic croutons\n\n        Buon appetit
-	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:e5GXNOYseFzGx1zssaqu4
+SUMMARY:🍽️ Lunch: Grilled pork with lentil salad and herb cream
+DTSTAMP:20261116T135431Z
+DTSTART;VALUE=DATE:20261118
+DESCRIPTION:\n        🍗 Main: Grilled pork with lentil salad and herb cream
+	\n\n        🍜 Deli: Pasta salad with chicken and dressing\n\n        🥬 Veg
+	etarian: French onion tart with parsley frit\n\n        Buon appetito! 😋\n
+	\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:FG9hNkD1q7RqQKzTfny0X
-SUMMARY:🍽️ Lunch: Mexican hotpot with nachos
-DTSTAMP:20261109T141141Z
-DTSTART;VALUE=DATE:20261111
-DESCRIPTION:\n        🍗 Main: Mexican hotpot with nachos\n\n        🍜 Deli:
-	 Russet potatoes with Serrano ham\n\n        🥬 Vegetarian: Veggi Curry wit
-	h lentils and rice\n\n        Buon appetito! 😋\n\n\n\n        Brought to y
-	ou by hungry DML 🤠\n        
+UID:2n8RUUm2vFJOVZ4eegQiA
+SUMMARY:🍽️ Lunch: Pasta el Forno with beef
+DTSTAMP:20261116T135431Z
+DTSTART;VALUE=DATE:20261117
+DESCRIPTION:\n        🍗 Main: Pasta el Forno with beef\n\n        🍜 Deli: W
+	arm liver pâté with mushrooms and bacon Served with rye bread and beetroot
+	\n\n        🥬 Vegetarian: whole wheat noodles with fried broccoli\, kimchi
+	 and roasted peanuts\n\n        Buon appetito! 😋\n\n\n\n        Brought to
+	 you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 BEGIN:VEVENT
-UID:INNsJlog1lkSjz-YW38Qf
-SUMMARY:🍽️ Lunch: Chicken Tandoori with jeera rice
-DTSTAMP:20261109T141141Z
-DTSTART;VALUE=DATE:20261112
-DESCRIPTION:\n        🍗 Main: Chicken Tandoori with jeera rice\n\n        🍜
-	 Deli: Open Faced Sandwiches with potato and eggs and shrimp\n\n        🥬 
-	Vegetarian: Fritata with potatoes and gouda cheese\n\n        Buon appetit
-	o! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
+UID:h6A4oRg_Eh9mn4DH-tJSH
+SUMMARY:🍽️ Lunch: Panang Chicken with Lime Rice
+DTSTAMP:20261116T135431Z
+DTSTART;VALUE=DATE:20261116
+DESCRIPTION:\n        🍗 Main: Panang Chicken with Lime Rice\n\n        🍜 De
+	li: poke bowl with ebi shrimp\, salad and avocado cream\n\n        🥬 Veget
+	arian: Potato soup with baked bread croutons and green oil\n\n        Buon
+	 appetito! 😋\n\n\n\n        Brought to you by hungry DML 🤠\n        
 LOCATION:Canteen
 END:VEVENT
 END:VCALENDAR
